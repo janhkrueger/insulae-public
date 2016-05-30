@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--W3C Schema erstellt von Jan H. Krueger-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="y" type="xs:integer"/>
+	<xs:element name="x" type="xs:integer"/>
+	<xs:element name="w" type="xs:integer"/>
+	<xs:element name="entdeckt" type="xs:string"/>
+	<xs:element name="bebaubar" type="xs:string"/>
+	<xs:element name="Ursprung" type="xs:string"/>
+	<xs:element name="Strasse" type="xs:string"/>
+	<xs:element name="Wirksamkeitsdatum" type="xs:string"/>
+	<xs:element name="Position">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="x"/>
+				<xs:element ref="y"/>
+				<xs:element ref="w"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Landwert" type="xs:byte"/>
+	<xs:element name="Landart" type="xs:integer"/>
+	<xs:element name="Jahreszeit" type="xs:string"/>
+	<xs:element name="Inselrealisierung">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Feld" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Inselname" type="xs:string"/>
+	<xs:element name="Inselheader">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Inselname"/>
+				<xs:element ref="ID"/>
+				<xs:element ref="Ursprung"/>
+				<xs:element ref="Ersteller"/>
+				<xs:element ref="entdeckt"/>
+				<xs:element ref="Jahreszeit"/>
+				<xs:element ref="Wirksamkeitsdatum"/>
+				<xs:element ref="Beschreibung"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Insel">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Inselheader"/>
+				<xs:element ref="Inselrealisierung"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ID" type="xs:integer"/>
+	<xs:element name="Gelaende" type="xs:short"/>
+	<xs:element name="Feldoptionen">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="bebaubar"/>
+				<xs:element ref="Strasse"/>
+				<xs:element ref="Landwert"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Feldart">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Landart"/>
+				<xs:element ref="Gelaende"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Feld">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Position"/>
+				<xs:element ref="Feldart"/>
+				<xs:element ref="Feldoptionen"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Ersteller" type="xs:string"/>
+	<xs:element name="Beschreibung" type="xs:string"/>
+</xs:schema>
