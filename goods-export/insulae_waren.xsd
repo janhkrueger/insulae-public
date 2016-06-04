@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--W3C Schema erstellt von Jan H. Krueger-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Herkunft" type="xs:string"/>
+	<xs:element name="Wirksamkeitsdatum" type="xs:string"/>
+	<xs:element name="Warenheader">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Herkunft"/>
+				<xs:element ref="Wirksamkeitsdatum"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ID" type="xs:integer"/>
+	<xs:element name="Name" type="xs:string"/>
+	<xs:element name="Beschreibung" type="xs:string"/>
+	<xs:element name="aktiv" type="xs:string"/>
+	<xs:element name="Warenkorb">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Ware" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Waren">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Warenheader"/>
+				<xs:element ref="Warenkorb"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Ware">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="ID"/>
+				<xs:element ref="Name"/>
+				<xs:element ref="Beschreibung"/>
+				<xs:element ref="aktiv"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
