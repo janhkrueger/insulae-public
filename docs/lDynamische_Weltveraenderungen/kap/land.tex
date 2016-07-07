@@ -1,0 +1,125 @@
+\chapter{Landver{\"a}nderungen}
+Unter den Landver{\"a}nderungen werden alle Szenarien zusammen gefasst, welche sich
+auf das optische Erscheinungsbild der Karte auswirken.\newline
+\newline
+Nach aktuellem Stand bietet sich jedes der hier vorgestellten Szenarien auch an
+um das Eingreifen der G{\"o}tter in die Welt darzustellen. Es ist noch zu
+pr{\"u}fen inwieweit sich einige dieser Szenarien eignen durch m{\"a}chtige
+Zauber durch Spieler bewu\ss t herbeigef{\"u} hrt werden k{\"o}nnen.
+
+\section {Vulkanausbr{\"u}che}
+Vulkanausbr{\"u}che dienen dazu nachhaltig die Landmasse zu ver{\"a}ndern.
+Aufgrund ihrer grossen Zerst{\"o}rungskraft welche potentiell s{\"a}mtliche Geb{\"a}ude
+und Landschaftsaufwertungen vernichten kann, ist dieses Ereigniss nur {\"a}usserst
+selten zu triggern.
+\linebreak\linebreak
+Bei Verwendung von Vulkanausbr{\"u}chen ist zu Beginn jeder Runde klar zu stellen
+das es zu solchen kommen kann mit einem Hinweis darauf was fuer endgueltige
+Folgen ein Vulkanausbruch mit sich bringt. Das Gebiet in direkter N{\"a}he des
+Vulkanes wird unmittelbar zerstort. Daraufliegende Geb{\"a}ude und Stra\ss en
+werden ebenfalls unwiederbringlich zerst{\"o}rt. Es findet kein materieller oder
+finanzieller Ausgleich statt. Charaktere welche zum Zeitpunkt des Ausbruches
+sich in dem Gebiet aufhalten, werden zum n{\"a}chsten Tempel transferiert.
+Sollte sich in der Region des Ereignisses ein Tempel befinden, ist dieser mit
+Beginn des Ereignisses zu deaktivieren und sterbende Charaktere auf umliegende
+Tempel zu verteilen.\linebreak
+
+Nach dem Ausbruch gibt es mehrere Varianten wie das Ereignis fortgef{\"u}hrt
+werden kann.\newline
+- Ende des Ausbruches\newline
+- Lava fliesst gen K{\"u}ste\newline
+- Vernichtung der Insel\newline
+
+Bei Variante 1, Ende des Ausbruches ist weiter nichts mehr zu beachten.  Die
+vernichteten L{\"a}ndereien werden als Steinfelder fortgef{\"u}hrt welche wie
+gehabt von Charakteren bewirtschaftet werden koennen. Das zentrale Feld besitzt
+eine erh{\"o}hte Wahrscheinlichkeit Quelle von Edelsteinen zu sein.\newline
+\linebreak
+Sollte die Lava wie in Variante 2 gen K{\"u}ste flie\ss en, muss der Vektor zu
+Beginn festgelegt werden. Von Vulkankrater bis zur K{\"u}ste wird ein 3-Felder
+breiter Streifen Land vollst{\"a}ndig zerst{\"o}rt. Der Lavastrom breitet sich
+mit mindestens einem Feld pro Tag aus. Schnelleres \glqq flie\ss en\grqq  der
+Lava ist m{\"o}glich bis zu einer Rate von einem Feld pro Stunde.\newline
+\linebreak
+Die vollst{\"a}ndige Vernichtung einer Insel schlie\ss lich ist vergleichbar mit
+Variante 2. Der Unterschied besteht lediglich darin das die Lava in alle
+Richtungen in sich konzentrisch um den Startpunkt ausbreitet. Diese Variante ist
+nur zu empfehlen wenn eine Insel vergr{\"o}\ss ert oder gegen eine andere
+Inselvorlage ausgetauscht werden soll. In diesem Fall wird nachdem die Lava
+erkaltet ist, anstelle der bisherigen Insel die neue entstehen. Ich empfehle um
+einen glaubhaften {\"U}ebergang zu gestalten eine Kombination aus Vulkanausbruch
+und {\"U}berflutung. Bei der {\"U}berflutung ist jedoch die {\"u}bliche Eintragung
+in der {\"o}ffentlich zug{\"a}nglichen Historie auszublenden.\newline
+\newline
+Vulkanausbr{\"u}che k{\"o}nnen in einer laufenden Runde auch genutzt werden um
+die Landmasse der Spielerzahl anzupassen. Gleichzeitig dienen sie dazu den
+Eindruck einer ver{\"a}nderlichen Welt darzustellen.\newline
+\newline
+\textbf{Skriptname:} ringoffire.py
+\newline\newline
+\textbf{Aufrufparameter:} Startkoordinate, Variante, Geschwindigkeit,
+Zielkoordinate, InselID\newline \newline
+Werden einer oder mehrere der Parameter nicht gesetzt, wird von ringoffire.py
+ein zuf{\"a}lliger Wert zugewiesen. Die Parameter Geschwindigkeit, Zielkoordinate
+und InselID werden in Abh{\"a}ngigkeit der angegebenen Variante ausgewertet.
+
+\section {{\"U}berflutungen}
+Eine {\"U}berflutung ist in ihrer Auswirkung das Gegenteil zu
+Vulkanausbr{\"u}chen. Anstatt Land zu schaffen, wird
+hier Land genommen.\newline Daher treffen die oben genannten Anmerkungen in
+verleichbarer Form auch auf {\"U}berflutungen zu. So kann eine {\"U}berflutung ebenfalls dazu genutzt werden die Landmasse der Spielerzahl anzupassen.\newline
+\newline
+\textbf{Hinweis:} Neue bzw. Ersatzanleger m{\"u}ssen bei aktuellem Stand noch
+per Hand gesetzt werden.
+\newline\newline
+\textbf{Skriptname:} cantstoptheflood.py
+
+\section {Trockenheiten}
+Eine Trockenheit symbolisiert das Fehlen von Wasser in einem Gebiet. Diese, wenn
+nicht schnell beendet, reduziert zeitweise den Ertrag gewisser Produkte. Die
+Regeneration der Felder sinkt stetig bis die Trockenheit beendet ist oder eine
+Regeneration von 0 erreicht wurde. Dauert die Trockenheit l{\"a}nger an, so
+sinkt mit jeder weiteren Auswertungsperiode die Qualit{\"a}t des Feldes. Bei
+einer Feldqualit{\"ua}t von anfangs 5, wird es also zusammen 10 Tage dauern bis
+sowohl Regeneration wie auch Qualit{\"a}t eines Feldes auff 0 gesunken
+sind.\newline 
+Ist dieser Punkt erreicht, beginnt das Land sich bei fortschreitender
+Trockenheit zu wandeln. Regul{\"a}re Felder werden zu W{\"u}ste. Als
+solche sind die meisten Produktionsgeb{\"a}ude nicht mehr in der Lage zu
+produzieren, komplette Wirtschaftszweige k{\"o}nnen wegbrechen.
+Weiterverarbeitende Gewerbe k{\"o}nnen weiter produzieren.\newline
+\newline \textbf{Hinweis:} Es ist dabei zu achten das bei manueller Ausl{o}sung nur Regionen mit passender Ausgangssituation gew{\"a}hlt werden. Der {\"U}bergang von ewigen Winter in eine trockene W{\"u}ste ist nicht immer
+glaubw{\"u}rdig.
+\newline\newline
+\textbf{Skriptname:} dryland.py
+\newline\newline
+\textbf{Aufrufparameter:} InselID, Dauer, Variante\newline \newline
+Werden einer oder mehrere der Parameter nicht gesetzt, wird von vulkan.py ein
+zuf{\"a}lliger Wert zugewiesen. Die Parameter Geschwindigkeit, Zielkoordinate
+und InselID werden in Abh{\"a}ngigkeit der angegebenen Variante ausgewertet.
+
+\section {Verl{\"a}ngerte Jahreszeiten}
+Aufgrund des technischen Aufbaus von Insulae ist es m{\"o}glich f{\"u}r jede Region /
+Insel / Kontinent eigene Abl{\"a}ufe der Jahreszeiten zu definieren. Wenn auf
+Del'ro Den Sommer herrscht, liegt Akrunia im Winter.
+Dieser Mechanismus wurde erweitert und ge{\"o}ffnet. Damit kann die Dauer einer
+Jahreszeit pro Insel entweder zuf{\"a}llig per Skript oder manuell {\"u}ber das
+Verwaltungsportal verl{\"a}ngert oder verk{\"u}rzt werden.\newline
+
+Die sonst feste Planung, n Tage Fleisch / Getreide / Holz / Steine
+vorr{\"a}tig zu halten, kann somit regional hinf{\"a}llig werden. Die Spieler
+werden gezwungen sich auf ge{\"a}nderte Rahmenbedingungen einzustellen.
+M{\"o}glichkeiten daf{u}r sind unter anderem Raubz{\"u}ge in Regionen welche die
+knappen Ressourcen in Masse haben oder verst{\"a}rkter Handel.
+\newline\newline
+\textbf{Skriptname:} vierjhahreszeiten.py
+\newline\newline
+\textbf{Aufrufparameter:} InselID, Dauer
+
+\section {Wechselnde Landschaftsformen}
+Zum Wechsel einer Landschaftsform in eine andere.
+\newline\newline
+F{\"u}r dieses Szenario ist bisher noch keine wirkliche Anwendung gefunden.
+gefunden.\newline \textbf{Skriptname:} changeforyou.py
+\newline\newline
+\textbf{Aufrufparameter:} InselID, Dauer, Neue Landart

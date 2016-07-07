@@ -1,0 +1,90 @@
+%****************
+% Dokumentenklasse und Packete laden
+%________________
+\documentclass[10pt,a4paper,openany]{book} 
+ 
+%****************
+% define medatata
+%________________
+\newcommand{\mail}{game.insulae@googlemail.com}
+\newcommand{\titlemain}{Dynamische Ereignisse in Browserspielen}
+\newcommand{\titlesub}{Am Beispiel von Insulae}
+\newcommand{\keywords}{Browserspiele,Insulae}
+\newcommand{\genprogram}{Eclipse with Texclipse-Plugin}
+\newcommand{\subject}{Einbindung dynamischer Ereignisse in statische
+Browsergames}
+ 
+\usepackage{ngerman, fancyhdr, graphicx, makeidx, setspace}
+\usepackage[T1]{fontenc}
+
+\PassOptionsToPackage{hyphens}{url} %Umbrüche nach '-' erlauben 
+\usepackage[pdfa,breaklinks=true]{hyperref}
+\makeindex
+
+\setlength{\headheight}{14.0pt}
+\pagenumbering{arabic}
+\setlength{\parindent}{0pt}
+
+%\pagestyle{fancy}
+%\fancyhead[L] { Premiumfunktionen }
+%\fancyfoot[r] { \small{http://www.janhkrueger.de/blog} }
+
+%****************
+% Verhalten der Hyperlinks definieren.
+%________________
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black,
+    pdfstartview={FitH},
+    pdftitle=\titlemain,
+    pdfauthor=Jan H. Kr{\"u}ger, %Verfasser
+    pdfcreator=\genprogram, %Anwendung
+    pdfproducer=\genprogram, %Anwendung
+    pdfkeywords=\keywords,
+    pdfsubject=\subject,
+    breaklinks=true,
+    baseurl=http://www.janhkrueger.de/browsergames/generisch/Premiumfunktionen.pdf
+}
+
+%****************
+% Titel und Autor
+%________________
+\title{ \Huge{\titlemain \\ \small{\titlesub}}}
+\author{Jan H. Kr{\"u}ger\thanks{\mail}}
+\date{Friedrichsdorf den 23.07.2008}
+
+\setlength{\parindent}{0pt}
+\pagenumbering{arabic}
+ 
+\renewcommand{\labelitemi}{--}
+ 
+\setcounter{tocdepth}{1}
+
+
+
+\begin{document}
+ 
+\maketitle
+\tableofcontents
+
+%****************
+% Kapitel Zweck des Dokumentes
+%________________
+\input{kap/zweck.tex}
+
+%****************
+% Kapitel Landshcaftsveraenderten
+%________________
+\input{kap/land.tex}
+
+%****************
+% Zeitlich begrenzte Ereignisse
+%________________
+\input{kap/zeitlich.tex}
+
+\renewcommand{\indexname}{Stichwortverzeichnis}
+
+\end{document}

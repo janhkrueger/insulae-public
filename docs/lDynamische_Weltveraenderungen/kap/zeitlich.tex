@@ -1,0 +1,66 @@
+\chapter{Zeitlich begrenzte Ereignisse}
+Unter die im Titel genannten Ereignisse wird all jenes eingereiht, was \newline
+TODO: Beschreibung noch nicht fertig. Viel zu sp{\"a}t nun.
+
+\section {Auftreten besonderer Rohstoffe}
+F{\"u}r einen begrenzten Zeitraum entstehen auf zuf{\"a}llig ausgew{\"a}hlten
+leeren Feldern seltene Hotspots sonst nicht vorkommender Rohstoffe. Prinzipiell
+kann mittels Aufruf aus dem Verwaltungsportal jeder Rohstoff so platziert
+werden. Es ist jedoch zu beachten das nicht f{\"u}r jeden Rohstoff entsprechende
+Bilder vorliegen. Von der Glaubw{\"u}rdigkeit mancher Kombinationen einmal ganz
+abgesehen.
+\newline\newline \textbf{Skriptname:} gimmegoods.py \newline\newline
+\textbf{Aufrufparameter:} InselID, RohstoffID, Dauer
+\newline\newline
+Wird kein Parameter wird angegeben, verarbeitet das Skript jede Insel und
+w{\"a}hlt zuf{\"a}llig Rohstoff und Dauer aus. Hierbei wird die hinterlegte
+Positivliste angewendet.
+
+\section {Wandernde H{\"a}ndler}
+Innerhalb der Welt von Insulae gibt es H{\"a}ndler welche nicht fest an einen
+Ort festgelegt sind, sondern im Lauf der Zeit ueber die Inseln wandern. Diese
+Wanderungen werden in regelm{\"a}\ss igen Abst{\"a}nden ausgef{\"u}hrt. Eine
+manuelle Wanderung ist hierbei m{\"o}glich.\newline\newline
+Wandernde H{\"a}ndler bieten die Chance bestimmte Rohstoffe / Rezepte,
+Gegenst{\"a}nde mit einem Seltenheitsfaktor zu versehen. Diese
+H{\"a}ndler k{\"o}nnen in jedem Gebiet auftauchen, auch wenn
+dieses f{\"u}r manche Spieler nicht erreichbar ist. Es liegt hier
+bei den Spielern, wie nach Auftauchen eines H{\"a}ndlers
+verfahren wird, ob der aktuelle Ort geheim bleibt oder die
+Mitspieler darauf hingewiesen werden.\newline
+Sollte der H{\"a}ndler bek{\"a}mpft und besiegt werden, so startet dieser nach
+Ablauf einer Woche an einem zuf{\"a}lligen Puntk seiner Route. Die Koordinate
+von welcher er vertrieben wurde, wird jedoch f{\"u}r ein halbes Jahr
+deaktiviert. Wer den H{\"a}ndler vor die T{\"u}r setzt, muss eben nicht damit
+rechnen das dieser so schnell wieder kommt.
+\newline
+Im Gegenzug kann es auch vorkommen, das Diebesbanden von Insel zu Insel ziehen
+und dabei entsprechenden wirtschaftlichen Schaden anrichten indem Rohstoffe aus
+Geb{\"a}uden verschwinden, Pferde aus Routen gestohlen werden etc.
+Diese Art von wandernden H{\"a}ndlern kann jedoch nach
+Entdeckung bek{\"a}mpt werden. Der betreffende H{\"a}ndler
+starten dann seine Reise an einem zuf{\"a}llig ausgew{\"a}lten
+Ort seiner Route nach einer Woche neu. Auf der betreffenden
+Insel wird allerdings fuer ein halbes Jahr ein weiterer Punkt
+erzeugt an dem diese Art von H{\"a}ndler erscheinen kann.\newline\newline
+\textbf{Skriptname:}
+gypsiestrampsandthieves.py
+\newline\newline
+\textbf{Aufrufparameter:} HaendlerID, Rotationen
+\newline\newline Wird kein Parameter wird angegeben, verarbeitet das Skript jede Insel und w{\"a}hlt zuf{\"a}llig Rohstoff und Dauer aus. Hierbei wird die hinterlegte Positivliste angewendet.
+
+\section {Ver{\"a}ndertes Monsterwachstum}
+Das Monsterwachstum auf einer Insel wird stimuliert oder ausgebremst. Eine
+Stimulation kann daf{\"u}r sorgen das die Spieler sich verst{\"a}rkt um die
+Monster k{\"u}mmern m{\"u}ssen. Muss nur entsprechend weh tun. \newline Sofern
+nichts anderes vorgegeben wird, werden die inden t{\"a}glichen Datenerhebungen
+gesammelten Daten bez{\"u}glich Anzahl und St{\"a}rke der Spieler zur Bestimmung
+von St{\"a}rke und Dauer des ver{\"a}nderten Wachstums herangezogen.
+\newline\newline
+\textbf{Skriptname:}
+wewillnotgrowold.py 
+\newline\newline
+\textbf{Aufrufparameter:} InselID, MonsterID, Variante, Dauer
+\newline\newline
+Die Variante gibt an, ob es zu einem verst{\"a}rktem oder geringerem Wachstum
+kommt. Wird die Variante nicht gesetzt, wird von einem Wachstum ausgegangen.
