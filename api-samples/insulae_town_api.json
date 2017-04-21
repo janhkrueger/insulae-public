@@ -1,0 +1,2452 @@
+{
+"TownList": [
+{
+"id": "1000000132",
+"name": "Aagadin"
+},
+{
+"id": "1000000133",
+"name": "Aandurin"
+},
+{
+"id": "1000000134",
+"name": "Abadir"
+},
+{
+"id": "1000000135",
+"name": "Achraon"
+},
+{
+"id": "1000000136",
+"name": "Adel Eryd"
+},
+{
+"id": "1000000137",
+"name": "Adlerfeste"
+},
+{
+"id": "1000000005",
+"name": "Aelcaras"
+},
+{
+"id": "1000000139",
+"name": "Aerlinn"
+},
+{
+"id": "1000000141",
+"name": "Aglarond"
+},
+{
+"id": "1000000142",
+"name": "Aibheisgard"
+},
+{
+"id": "1000000143",
+"name": "Akatharsia"
+},
+{
+"id": "1000000144",
+"name": "Akesphoria"
+},
+{
+"id": "1000000145",
+"name": "Akinlay"
+},
+{
+"id": "1000000006",
+"name": "Alba Longa"
+},
+{
+"id": "1000000146",
+"name": "Albiontar"
+},
+{
+"id": "1000000147",
+"name": "AldRuhn et Honor"
+},
+{
+"id": "1000000148",
+"name": "Aleisters Home"
+},
+{
+"id": "1000000007",
+"name": "Alexanoria Nova"
+},
+{
+"id": "1000000149",
+"name": "Alfitria"
+},
+{
+"id": "1000000150",
+"name": "Alkar en Orod"
+},
+{
+"id": "1000000008",
+"name": "Alverans City of Dreams"
+},
+{
+"id": "1000000152",
+"name": "Aman`Lu"
+},
+{
+"id": "1000000153",
+"name": "Amilano"
+},
+{
+"id": "1000000154",
+"name": "Amon Amdir"
+},
+{
+"id": "1000000155",
+"name": "Amon Ereb"
+},
+{
+"id": "1000000156",
+"name": "Amour de la Larin"
+},
+{
+"id": "1000000157",
+"name": "Amrodia"
+},
+{
+"id": "1000000158",
+"name": "Anadrome"
+},
+{
+"id": "1000000159",
+"name": "Antoras Khorun"
+},
+{
+"id": "1000000160",
+"name": "Anudora"
+},
+{
+"id": "1000000161",
+"name": "Apricus Lacus"
+},
+{
+"id": "1000000162",
+"name": "Aqualung"
+},
+{
+"id": "1000000009",
+"name": "Aquilania"
+},
+{
+"id": "1000000163",
+"name": "Aquila`s Home"
+},
+{
+"id": "1000000010",
+"name": "Arador"
+},
+{
+"id": "1000000011",
+"name": "Arados Nova"
+},
+{
+"id": "1000000164",
+"name": "Arbol de Eternidad"
+},
+{
+"id": "1000000165",
+"name": "Arboreum Lothianis"
+},
+{
+"id": "1000000166",
+"name": "Arcadia"
+},
+{
+"id": "1000000167",
+"name": "Arcania"
+},
+{
+"id": "1000000012",
+"name": "Arcanus"
+},
+{
+"id": "1000000168",
+"name": "Arcaria"
+},
+{
+"id": "1000000169",
+"name": "Arcella"
+},
+{
+"id": "1000000170",
+"name": "Argos ad Argolis"
+},
+{
+"id": "1000000013",
+"name": "Argostia"
+},
+{
+"id": "1000000014",
+"name": "Aronius Monument"
+},
+{
+"id": "1000000022",
+"name": "Artus Hof"
+},
+{
+"id": "1000000171",
+"name": "Arx ars Arcana"
+},
+{
+"id": "1000000172",
+"name": "Arx ars Bellica"
+},
+{
+"id": "1000000173",
+"name": "Arx ars Magica"
+},
+{
+"id": "1000000174",
+"name": "Arx ars Nova"
+},
+{
+"id": "1000000175",
+"name": "Arx Libertas"
+},
+{
+"id": "1000000176",
+"name": "Asgards Khaz Rhun"
+},
+{
+"id": "1000000177",
+"name": "Asgards Light"
+},
+{
+"id": "1000000178",
+"name": "Asgards Loewenfels"
+},
+{
+"id": "1000000179",
+"name": "Asgards Lost"
+},
+{
+"id": "1000000180",
+"name": "Asgards Mahal"
+},
+{
+"id": "1000000181",
+"name": "Asgards Memry"
+},
+{
+"id": "1000000182",
+"name": "Asgards Monument"
+},
+{
+"id": "1000000183",
+"name": "Asgards Ocarnje"
+},
+{
+"id": "1000000184",
+"name": "Asgards Pride"
+},
+{
+"id": "1000000185",
+"name": "Asgards Thrudvanger"
+},
+{
+"id": "1000000666",
+"name": "Athanasia"
+},
+{
+"id": "1000000023",
+"name": "Athlith"
+},
+{
+"id": "1000000024",
+"name": "Atreides Monument"
+},
+{
+"id": "1000000186",
+"name": "Atropos"
+},
+{
+"id": "1000000187",
+"name": "Aurora"
+},
+{
+"id": "1000000025",
+"name": "Avalon"
+},
+{
+"id": "1000000188",
+"name": "Avarannon"
+},
+{
+"id": "1000000189",
+"name": "Avari`s Heaven"
+},
+{
+"id": "1000000190",
+"name": "Averian"
+},
+{
+"id": "1000000191",
+"name": "Axahine"
+},
+{
+"id": "1000000026",
+"name": "Aydindril"
+},
+{
+"id": "1000000029",
+"name": "Babel"
+},
+{
+"id": "1000000030",
+"name": "Barad-dur"
+},
+{
+"id": "1000000192",
+"name": "Bar Amdir"
+},
+{
+"id": "1000000193",
+"name": "Bareketta"
+},
+{
+"id": "1000000032",
+"name": "Bearfield Garden"
+},
+{
+"id": "1000000033",
+"name": "Bearfield Outland"
+},
+{
+"id": "1000000034",
+"name": "Bearhaven"
+},
+{
+"id": "1000000031",
+"name": "Bear Knox"
+},
+{
+"id": "1000000194",
+"name": "Beaulieu"
+},
+{
+"id": "1000000195",
+"name": "Bechelaren"
+},
+{
+"id": "1000000197",
+"name": "Beldhar"
+},
+{
+"id": "1000000198",
+"name": "Belegost"
+},
+{
+"id": "1000000196",
+"name": "Bel en Orod"
+},
+{
+"id": "1000000199",
+"name": "Bendurs Geheiligte Hallen"
+},
+{
+"id": "1000000200",
+"name": "Benettons Hoffnung"
+},
+{
+"id": "1000000201",
+"name": "Bengalore"
+},
+{
+"id": "1000000035",
+"name": "Berdusk"
+},
+{
+"id": "1000000202",
+"name": "Bergfeste Hoffnung"
+},
+{
+"id": "1000000036",
+"name": "Bermudas"
+},
+{
+"id": "1000000203",
+"name": "Bernsteinkueste"
+},
+{
+"id": "1000000204",
+"name": "Bethana 2"
+},
+{
+"id": "1000000205",
+"name": "Black Oak"
+},
+{
+"id": "1000000206",
+"name": "Bluemchendorf"
+},
+{
+"id": "1000000207",
+"name": "Blumenparadies"
+},
+{
+"id": "1000000208",
+"name": "Blut des Granats"
+},
+{
+"id": "1000000213",
+"name": "Borbra"
+},
+{
+"id": "1000000209",
+"name": "Bor Col Casir"
+},
+{
+"id": "1000000210",
+"name": "Bor Col Cros"
+},
+{
+"id": "1000000211",
+"name": "Bor Col Nan"
+},
+{
+"id": "1000000212",
+"name": "Bor Col Somar"
+},
+{
+"id": "1000000037",
+"name": "Brakleg"
+},
+{
+"id": "1000000214",
+"name": "Brilandia"
+},
+{
+"id": "1000000038",
+"name": "Bruchtal"
+},
+{
+"id": "1000000215",
+"name": "Burg Frankenfels"
+},
+{
+"id": "1000000216",
+"name": "Burg Hohenstaufen"
+},
+{
+"id": "1000000217",
+"name": "Burg Lukanien"
+},
+{
+"id": "1000000218",
+"name": "Burg Nachtwind"
+},
+{
+"id": "1000000219",
+"name": "Burg Ruepelfels"
+},
+{
+"id": "1000000220",
+"name": "Burg Siebenstein"
+},
+{
+"id": "1000000039",
+"name": "Burg Sonnenfels"
+},
+{
+"id": "1000000221",
+"name": "Burg Sternental"
+},
+{
+"id": "1000000222",
+"name": "Burg Sturmfels"
+},
+{
+"id": "1000000223",
+"name": "Burg Sturmwind"
+},
+{
+"id": "1000000224",
+"name": "Burg Tacheless"
+},
+{
+"id": "1000000040",
+"name": "Burg Wiesengrund"
+},
+{
+"id": "1000000225",
+"name": "Butterwiese"
+},
+{
+"id": "1000000226",
+"name": "Caer Valdeargh"
+},
+{
+"id": "1000000227",
+"name": "Cair Paravel"
+},
+{
+"id": "1000000228",
+"name": "Calavere"
+},
+{
+"id": "1000000229",
+"name": "Caldera Nova"
+},
+{
+"id": "1000000230",
+"name": "Calendula"
+},
+{
+"id": "1000000231",
+"name": "Caligobaca"
+},
+{
+"id": "1000000232",
+"name": "Caligomagus"
+},
+{
+"id": "1000000233",
+"name": "Caligoporta"
+},
+{
+"id": "1000000041",
+"name": "Camelot"
+},
+{
+"id": "1000000234",
+"name": "Caras en Tawar Aroden"
+},
+{
+"id": "1000000235",
+"name": "Caras Galadhon"
+},
+{
+"id": "1000000236",
+"name": "Caras Korthre"
+},
+{
+"id": "1000000237",
+"name": "Caras Rhawiant"
+},
+{
+"id": "1000000667",
+"name": "Cartagena"
+},
+{
+"id": "1000000042",
+"name": "Carthago Nova"
+},
+{
+"id": "1000000238",
+"name": "Casa de Paraiso"
+},
+{
+"id": "1000000043",
+"name": "Castella tra montana"
+},
+{
+"id": "1000000239",
+"name": "Castell el Ferro"
+},
+{
+"id": "1000000044",
+"name": "Castelo Branco"
+},
+{
+"id": "1000000240",
+"name": "Catalia"
+},
+{
+"id": "1000000241",
+"name": "Ceriona"
+},
+{
+"id": "1000000242",
+"name": "Chrestotes"
+},
+{
+"id": "1000000243",
+"name": "Cirith Elegys"
+},
+{
+"id": "1000000244",
+"name": "Clouds End"
+},
+{
+"id": "1000000245",
+"name": "coa lith"
+},
+{
+"id": "1000000045",
+"name": "Cobrahn"
+},
+{
+"id": "1000000246",
+"name": "Cor Arctica"
+},
+{
+"id": "1000000247",
+"name": "Cor Cachette"
+},
+{
+"id": "1000000248",
+"name": "Cor Castelli"
+},
+{
+"id": "1000000249",
+"name": "cor jaheriel"
+},
+{
+"id": "1000000250",
+"name": "Cor Llanowares"
+},
+{
+"id": "1000000251",
+"name": "Cor Medici"
+},
+{
+"id": "1000000046",
+"name": "Cornbear Coast"
+},
+{
+"id": "1000000252",
+"name": "Cor Nefiath"
+},
+{
+"id": "1000000253",
+"name": "Coruscant"
+},
+{
+"id": "1000000254",
+"name": "Crescendo"
+},
+{
+"id": "1000000255",
+"name": "Crydee"
+},
+{
+"id": "1000000256",
+"name": "Cryon"
+},
+{
+"id": "1000000257",
+"name": "Darkana"
+},
+{
+"id": "1000000258",
+"name": "Darkwood"
+},
+{
+"id": "1000000259",
+"name": "Davatars Monument"
+},
+{
+"id": "1000000260",
+"name": "des Schuerfers kleines Paradies"
+},
+{
+"id": "1000000047",
+"name": "Deuteros"
+},
+{
+"id": "1000000048",
+"name": "Devils Gate"
+},
+{
+"id": "1000000261",
+"name": "Dickschaedelfels"
+},
+{
+"id": "1000000262",
+"name": "Diminuendo"
+},
+{
+"id": "1000000263",
+"name": "Din Ailin"
+},
+{
+"id": "1000000274",
+"name": "Dinas Cariad"
+},
+{
+"id": "1000000275",
+"name": "Dinas Lloches"
+},
+{
+"id": "1000000276",
+"name": "Dinas Masnach"
+},
+{
+"id": "1000000264",
+"name": "Din Elenath"
+},
+{
+"id": "1000000265",
+"name": "Din Fina"
+},
+{
+"id": "1000000266",
+"name": "Din Ildirian"
+},
+{
+"id": "1000000267",
+"name": "Din Ithil"
+},
+{
+"id": "1000000269",
+"name": "Din Narthan"
+},
+{
+"id": "1000000271",
+"name": "Din Nerona"
+},
+{
+"id": "1000000272",
+"name": "Din Pelthaes"
+},
+{
+"id": "1000000277",
+"name": "Dol Guldur"
+},
+{
+"id": "1000000278",
+"name": "Dornenhain"
+},
+{
+"id": "1000000049",
+"name": "Dosporos"
+},
+{
+"id": "1000000050",
+"name": "Drachenburg"
+},
+{
+"id": "1000000051",
+"name": "Drachenfels"
+},
+{
+"id": "1000000279",
+"name": "Drachenfeste"
+},
+{
+"id": "1000000052",
+"name": "Drachenfestung"
+},
+{
+"id": "1000000053",
+"name": "Drachenhorst"
+},
+{
+"id": "1000000280",
+"name": "Drakengard"
+},
+{
+"id": "1000000281",
+"name": "Druidenforst"
+},
+{
+"id": "1000000054",
+"name": "Dun a Morod"
+},
+{
+"id": "1000000055",
+"name": "Dwarfs End"
+},
+{
+"id": "1000000282",
+"name": "Edhelgarth"
+},
+{
+"id": "1000000283",
+"name": "Edoran"
+},
+{
+"id": "1000000284",
+"name": "Eichhofen"
+},
+{
+"id": "1000000285",
+"name": "Eiland"
+},
+{
+"id": "1000000286",
+"name": "Eirulan"
+},
+{
+"id": "1000000287",
+"name": "Eldamar"
+},
+{
+"id": "1000000087",
+"name": "el Dorado"
+},
+{
+"id": "1000000288",
+"name": "Eldorado"
+},
+{
+"id": "1000000056",
+"name": "Elfenbeinküste"
+},
+{
+"id": "1000000289",
+"name": "Elfhausen"
+},
+{
+"id": "1000000057",
+"name": "Elpis"
+},
+{
+"id": "1000000290",
+"name": "Enduriumfeste"
+},
+{
+"id": "1000000291",
+"name": "Erebor"
+},
+{
+"id": "1000000292",
+"name": "Eremits Feste"
+},
+{
+"id": "1000000293",
+"name": "Eremits Geierhorst"
+},
+{
+"id": "1000000294",
+"name": "Eremits Ruh"
+},
+{
+"id": "1000000295",
+"name": "Ergomir"
+},
+{
+"id": "1000000296",
+"name": "Erynost"
+},
+{
+"id": "1000000297",
+"name": "Eschatiotes"
+},
+{
+"id": "1000000298",
+"name": "Espera Lothianis"
+},
+{
+"id": "1000000299",
+"name": "Esturia Castello Fuego"
+},
+{
+"id": "1000000300",
+"name": "Esturia Centralis"
+},
+{
+"id": "1000000301",
+"name": "Esturia Draconis"
+},
+{
+"id": "1000000302",
+"name": "Esturia Nova"
+},
+{
+"id": "1000000303",
+"name": "Esturia Sapientia"
+},
+{
+"id": "1000000314",
+"name": "Esturias Geisterstadt"
+},
+{
+"id": "1000000313",
+"name": "Esturia Vectris"
+},
+{
+"id": "1000000315",
+"name": "Evendim"
+},
+{
+"id": "1000000316",
+"name": "Excubitor Merdies"
+},
+{
+"id": "1000000317",
+"name": "Far Far Away"
+},
+{
+"id": "1000000323",
+"name": "Fendrakan"
+},
+{
+"id": "1000000318",
+"name": "Fendrakan Grenzfeste"
+},
+{
+"id": "1000000319",
+"name": "Fendrakan Zuflucht"
+},
+{
+"id": "1000000058",
+"name": "Ferne Zuflucht"
+},
+{
+"id": "1000000322",
+"name": "Ferne Zuflucht 2"
+},
+{
+"id": "1000000320",
+"name": "Feste des Blutmondes"
+},
+{
+"id": "1000000324",
+"name": "Feste Loh"
+},
+{
+"id": "1000000325",
+"name": "Feste Sturmkap"
+},
+{
+"id": "1000000326",
+"name": "Feuer des Rubins"
+},
+{
+"id": "1000000327",
+"name": "Feuerfeste"
+},
+{
+"id": "1000000328",
+"name": "Flamme des Opals"
+},
+{
+"id": "1000000329",
+"name": "Flussfeste"
+},
+{
+"id": "1000000330",
+"name": "Fort of Gloria"
+},
+{
+"id": "1000000335",
+"name": "Frankenbucht"
+},
+{
+"id": "1000000059",
+"name": "Frankenfels"
+},
+{
+"id": "1000000336",
+"name": "Frankenfurt"
+},
+{
+"id": "1000000337",
+"name": "Frankenstein"
+},
+{
+"id": "1000000060",
+"name": "Frankental"
+},
+{
+"id": "1000000339",
+"name": "Frankental 2"
+},
+{
+"id": "1000000340",
+"name": "Frankenwald"
+},
+{
+"id": "1000000341",
+"name": "Frankonia"
+},
+{
+"id": "1000000061",
+"name": "Freimaurer Stadt"
+},
+{
+"id": "1000000062",
+"name": "Fruitbear Castle"
+},
+{
+"id": "1000000345",
+"name": "Fyrkat"
+},
+{
+"id": "1000000063",
+"name": "Galador"
+},
+{
+"id": "1000000346",
+"name": "Galopiandros"
+},
+{
+"id": "1000000064",
+"name": "Ganath Nova"
+},
+{
+"id": "1000000348",
+"name": "Ganath Nova 2"
+},
+{
+"id": "1000000349",
+"name": "Garden of Honor"
+},
+{
+"id": "1000000350",
+"name": "Gateway"
+},
+{
+"id": "1000000351",
+"name": "Gil Tho`bek"
+},
+{
+"id": "1000000352",
+"name": "Glanz des Saphirs"
+},
+{
+"id": "1000000353",
+"name": "Gloria"
+},
+{
+"id": "1000000354",
+"name": "Gloria Bellum Gallicum"
+},
+{
+"id": "1000000355",
+"name": "Gloria fa Luhn"
+},
+{
+"id": "1000000356",
+"name": "Gloria Immortalis"
+},
+{
+"id": "1000000357",
+"name": "Glutbrueck"
+},
+{
+"id": "1000000358",
+"name": "Gobel en airita Bendur"
+},
+{
+"id": "1000000359",
+"name": "Goldburg"
+},
+{
+"id": "1000000360",
+"name": "Goldstrand"
+},
+{
+"id": "1000000361",
+"name": "Golonath"
+},
+{
+"id": "1000000065",
+"name": "Gondor"
+},
+{
+"id": "1000000362",
+"name": "Gondtyl"
+},
+{
+"id": "1000000363",
+"name": "Gray Manor"
+},
+{
+"id": "1000000364",
+"name": "Greenleafs Castle"
+},
+{
+"id": "1000000066",
+"name": "Grenzfeste Broms Klamm"
+},
+{
+"id": "1000000365",
+"name": "Grenzfeste Morodshall"
+},
+{
+"id": "1000000003",
+"name": "Hafen der Seelen"
+},
+{
+"id": "1000000067",
+"name": "Haithabu"
+},
+{
+"id": "1000000366",
+"name": "Handelsstadt Adragne"
+},
+{
+"id": "1000000367",
+"name": "Harnost"
+},
+{
+"id": "1000000068",
+"name": "Havamal"
+},
+{
+"id": "1000000069",
+"name": "Havanna"
+},
+{
+"id": "1000000070",
+"name": "Helena"
+},
+{
+"id": "1000000368",
+"name": "Heraklion"
+},
+{
+"id": "1000000369",
+"name": "Herculentius"
+},
+{
+"id": "1000000370",
+"name": "Heredia"
+},
+{
+"id": "1000000071",
+"name": "Herz der Drachen"
+},
+{
+"id": "1000000371",
+"name": "Hesperus"
+},
+{
+"id": "1000000372",
+"name": "Hohe Feste des Frankenreiches"
+},
+{
+"id": "1000000373",
+"name": "Holzkopfbucht"
+},
+{
+"id": "1000000374",
+"name": "Home of native Indians"
+},
+{
+"id": "1000000375",
+"name": "Honor fa Luhn"
+},
+{
+"id": "1000000376",
+"name": "Honor Immortalis"
+},
+{
+"id": "1000000377",
+"name": "Hoolia"
+},
+{
+"id": "1000000072",
+"name": "Hort der Abenteurer"
+},
+{
+"id": "1000000073",
+"name": "Hort der Erleuchtung"
+},
+{
+"id": "1000000378",
+"name": "Hort der Rebellen"
+},
+{
+"id": "1000000074",
+"name": "Hort der Zwerge"
+},
+{
+"id": "1000000075",
+"name": "Hort des Friedens"
+},
+{
+"id": "1000000076",
+"name": "Hort des Lebens"
+},
+{
+"id": "1000000077",
+"name": "Hort des Lichts"
+},
+{
+"id": "1000000379",
+"name": "Huegelfeste Hobbitstolz"
+},
+{
+"id": "1000000380",
+"name": "Ilmarin"
+},
+{
+"id": "1000000381",
+"name": "Ilythiiri Xukuth"
+},
+{
+"id": "1000000382",
+"name": "Imladris"
+},
+{
+"id": "1000000273",
+"name": "In Vendaris"
+},
+{
+"id": "1000000078",
+"name": "Isengard"
+},
+{
+"id": "1000000383",
+"name": "Isthmuriel dur Mare"
+},
+{
+"id": "1000000384",
+"name": "Jade del Mar"
+},
+{
+"id": "1000000385",
+"name": "Jagdrevier Hoffnung"
+},
+{
+"id": "1000000386",
+"name": "Jakaruthu"
+},
+{
+"id": "1000000387",
+"name": "Jardanar"
+},
+{
+"id": "1000000389",
+"name": "Jenensia"
+},
+{
+"id": "1000000388",
+"name": "Je Olde Kratt"
+},
+{
+"id": "1000000390",
+"name": "Johannesburg"
+},
+{
+"id": "1000000391",
+"name": "Kalrathien"
+},
+{
+"id": "1000000392",
+"name": "Kaltwasser"
+},
+{
+"id": "1000000393",
+"name": "Kap Amoris"
+},
+{
+"id": "1000000394",
+"name": "Kap Arandor"
+},
+{
+"id": "1000000395",
+"name": "Kap der Franken"
+},
+{
+"id": "1000000396",
+"name": "Kap der Freiheit"
+},
+{
+"id": "1000000397",
+"name": "Kap der sieben Winde"
+},
+{
+"id": "1000000398",
+"name": "Kastell der Seegeister"
+},
+{
+"id": "1000000399",
+"name": "Kastell der Waldgeister"
+},
+{
+"id": "1000000400",
+"name": "Kathargo"
+},
+{
+"id": "1000000401",
+"name": "Kendhrir"
+},
+{
+"id": "1000000080",
+"name": "Khemri"
+},
+{
+"id": "1000000402",
+"name": "Kiekebusch"
+},
+{
+"id": "1000000403",
+"name": "Kleintupfingen"
+},
+{
+"id": "1000000404",
+"name": "Kleinwichtel-Walhallingen"
+},
+{
+"id": "1000000405",
+"name": "Korodon"
+},
+{
+"id": "1000000406",
+"name": "Kraehennest"
+},
+{
+"id": "1000000407",
+"name": "Krak des Chevaliers"
+},
+{
+"id": "1000000408",
+"name": "Krasnij Kut"
+},
+{
+"id": "1000000409",
+"name": "Kuestenbrise"
+},
+{
+"id": "1000000140",
+"name": "Kuestenfestung Girangoth"
+},
+{
+"id": "1000000411",
+"name": "Kuslik"
+},
+{
+"id": "1000000412",
+"name": "La Bodega"
+},
+{
+"id": "1000000414",
+"name": "Lac Dinesherre"
+},
+{
+"id": "1000000415",
+"name": "Ladoran"
+},
+{
+"id": "1000000413",
+"name": "La Gardia"
+},
+{
+"id": "1000000015",
+"name": "Lager Mitte"
+},
+{
+"id": "1000000016",
+"name": "Lager Nord"
+},
+{
+"id": "1000000017",
+"name": "Lager Süd"
+},
+{
+"id": "1000000418",
+"name": "Lager West"
+},
+{
+"id": "1000000081",
+"name": "Lamia"
+},
+{
+"id": "1000000419",
+"name": "Lancelots Bierburg"
+},
+{
+"id": "1000000420",
+"name": "Lapis Lazuli"
+},
+{
+"id": "1000000421",
+"name": "Lapis Lothianis"
+},
+{
+"id": "1000000422",
+"name": "Larien"
+},
+{
+"id": "1000000423",
+"name": "Larjas Segen"
+},
+{
+"id": "1000000424",
+"name": "Larjas Traene"
+},
+{
+"id": "1000000425",
+"name": "Larjas Waldburg"
+},
+{
+"id": "1000000426",
+"name": "Larjas Zuflucht"
+},
+{
+"id": "1000000427",
+"name": "Lenthargo"
+},
+{
+"id": "1000000428",
+"name": "Licht der Hoffnung"
+},
+{
+"id": "1000000429",
+"name": "Lion`s Castle"
+},
+{
+"id": "1000000430",
+"name": "Lohleben"
+},
+{
+"id": "1000000431",
+"name": "Lois Thuatail"
+},
+{
+"id": "1000000432",
+"name": "Londoria"
+},
+{
+"id": "1000000433",
+"name": "Lorderon"
+},
+{
+"id": "1000000442",
+"name": "Lothia"
+},
+{
+"id": "1000000443",
+"name": "Lothianis Bay"
+},
+{
+"id": "1000000444",
+"name": "Lothianis Coast"
+},
+{
+"id": "1000000445",
+"name": "Lothiens Sternchen"
+},
+{
+"id": "1000000446",
+"name": "Luis Silva"
+},
+{
+"id": "1000000447",
+"name": "Lunae"
+},
+{
+"id": "1000000448",
+"name": "Lupinia"
+},
+{
+"id": "1000000018",
+"name": "Mabyndor"
+},
+{
+"id": "1000000019",
+"name": "Mabyndyr"
+},
+{
+"id": "1000000450",
+"name": "Maethyria"
+},
+{
+"id": "1000000451",
+"name": "Magesh"
+},
+{
+"id": "1000000452",
+"name": "Magie des Aquamarins"
+},
+{
+"id": "1000000453",
+"name": "Magna Atlanta"
+},
+{
+"id": "1000000454",
+"name": "Mainsch kleine Hilfschmischion"
+},
+{
+"id": "1000000455",
+"name": "Majores Morgul"
+},
+{
+"id": "1000000456",
+"name": "Mallorn"
+},
+{
+"id": "1000000670",
+"name": "Melnibonee"
+},
+{
+"id": "1000000458",
+"name": "Menegroth"
+},
+{
+"id": "1000000457",
+"name": "Men in aina Larja"
+},
+{
+"id": "1000000268",
+"name": "Meresin"
+},
+{
+"id": "1000000459",
+"name": "Miluiverien"
+},
+{
+"id": "1000000460",
+"name": "Minas Anor"
+},
+{
+"id": "1000000461",
+"name": "Minas Argul"
+},
+{
+"id": "1000000462",
+"name": "Minas en airita Urvan"
+},
+{
+"id": "1000000463",
+"name": "Minas Estel"
+},
+{
+"id": "1000000464",
+"name": "Minas Ithil"
+},
+{
+"id": "1000000082",
+"name": "Minas Tinth"
+},
+{
+"id": "1000000465",
+"name": "Minas Tir"
+},
+{
+"id": "1000000466",
+"name": "Minas Tirith"
+},
+{
+"id": "1000000467",
+"name": "Minuial"
+},
+{
+"id": "1000000468",
+"name": "Miracon"
+},
+{
+"id": "1000000469",
+"name": "Monere Altum"
+},
+{
+"id": "1000000470",
+"name": "Monjiopoly"
+},
+{
+"id": "1000000471",
+"name": "Monmate Sinan"
+},
+{
+"id": "1000000472",
+"name": "Monte-Carlo"
+},
+{
+"id": "1000000473",
+"name": "Moonlight"
+},
+{
+"id": "1000000083",
+"name": "Moonlit Castle"
+},
+{
+"id": "1000000084",
+"name": "Morgenthau"
+},
+{
+"id": "1000000474",
+"name": "Morodia"
+},
+{
+"id": "1000000475",
+"name": "Murindil Lysilia"
+},
+{
+"id": "1000000097",
+"name": "Napanee"
+},
+{
+"id": "1000000476",
+"name": "Naphtha"
+},
+{
+"id": "1000000477",
+"name": "Narvalon"
+},
+{
+"id": "1000000478",
+"name": "Navisko"
+},
+{
+"id": "1000000479",
+"name": "Nebelfeste"
+},
+{
+"id": "1000000480",
+"name": "Ned rin bo i hil"
+},
+{
+"id": "1000000481",
+"name": "Nekrodocheion"
+},
+{
+"id": "1000000482",
+"name": "Nemesis"
+},
+{
+"id": "1000000483",
+"name": "Neo Draconis"
+},
+{
+"id": "1000000098",
+"name": "Neo Evangelion"
+},
+{
+"id": "1000000484",
+"name": "Neo Fendrakan"
+},
+{
+"id": "1000000485",
+"name": "Neskaya"
+},
+{
+"id": "1000000488",
+"name": "Neue Hoffnung"
+},
+{
+"id": "1000000668",
+"name": "Neu Kuldafaern"
+},
+{
+"id": "1000000486",
+"name": "Neu Nimheria"
+},
+{
+"id": "1000000487",
+"name": "Neu Toppelmopf"
+},
+{
+"id": "1000000489",
+"name": "Nevoa Escura"
+},
+{
+"id": "1000000490",
+"name": "New Hive"
+},
+{
+"id": "1000000491",
+"name": "New Hope"
+},
+{
+"id": "1000000492",
+"name": "Niflheim"
+},
+{
+"id": "1000000493",
+"name": "Nogrod"
+},
+{
+"id": "1000000494",
+"name": "Nordlicht"
+},
+{
+"id": "1000000495",
+"name": "Nore en airita Pheron"
+},
+{
+"id": "1000000496",
+"name": "Nottinghamshire"
+},
+{
+"id": "1000000021",
+"name": "Nova Androsia"
+},
+{
+"id": "1000000020",
+"name": "Nova Ostasia"
+},
+{
+"id": "1000000497",
+"name": "Numenor"
+},
+{
+"id": "1000000093",
+"name": "Odins Festung"
+},
+{
+"id": "1000000499",
+"name": "Odins Festung 2"
+},
+{
+"id": "1000000500",
+"name": "Oneiros"
+},
+{
+"id": "1000000501",
+"name": "Onkelboeken"
+},
+{
+"id": "1000000502",
+"name": "Opele in aina Tura"
+},
+{
+"id": "1000000094",
+"name": "Orkflamme"
+},
+{
+"id": "1000000503",
+"name": "Osgiliath"
+},
+{
+"id": "1000000504",
+"name": "Ossakarowka"
+},
+{
+"id": "1000000505",
+"name": "Ostfels"
+},
+{
+"id": "1000000095",
+"name": "Ostia"
+},
+{
+"id": "1000000506",
+"name": "Osto Alda"
+},
+{
+"id": "1000000507",
+"name": "Osto in aina Wendaria"
+},
+{
+"id": "1000000096",
+"name": "Osttal"
+},
+{
+"id": "1000000508",
+"name": "Oureion"
+},
+{
+"id": "1000000509",
+"name": "Paladins Lager"
+},
+{
+"id": "1000000510",
+"name": "Paladins Oase"
+},
+{
+"id": "1000000511",
+"name": "Paladins Resort"
+},
+{
+"id": "1000000512",
+"name": "Palladium Gaias"
+},
+{
+"id": "1000000513",
+"name": "Panama"
+},
+{
+"id": "1000000099",
+"name": "Parandor"
+},
+{
+"id": "1000000518",
+"name": "Patria Anatini"
+},
+{
+"id": "1000000100",
+"name": "Patria Terravernis"
+},
+{
+"id": "1000000519",
+"name": "Perlenbucht (1)"
+},
+{
+"id": "1000000520",
+"name": "Perlenbucht (2)"
+},
+{
+"id": "1000000101",
+"name": "Pforte zu Loh"
+},
+{
+"id": "1000000521",
+"name": "Pforte zu Walhall"
+},
+{
+"id": "1000000522",
+"name": "Plains of Honor"
+},
+{
+"id": "1000000102",
+"name": "Plantagenhain"
+},
+{
+"id": "1000000523",
+"name": "Polamar"
+},
+{
+"id": "1000000524",
+"name": "Polarstern"
+},
+{
+"id": "1000000525",
+"name": "Pontos"
+},
+{
+"id": "1000000104",
+"name": "Portolia"
+},
+{
+"id": "1000000103",
+"name": "Port Royal"
+},
+{
+"id": "1000000526",
+"name": "Pracht des Smaragdes"
+},
+{
+"id": "1000000527",
+"name": "Preciosa de Rosa"
+},
+{
+"id": "1000000528",
+"name": "Puerto Pavitos"
+},
+{
+"id": "1000000529",
+"name": "Pyr"
+},
+{
+"id": "1000000530",
+"name": "Quell der Hoffnung"
+},
+{
+"id": "1000000531",
+"name": "Quo Veheris"
+},
+{
+"id": "1000000105",
+"name": "Rabenfels"
+},
+{
+"id": "1000000532",
+"name": "Rebellenfeste"
+},
+{
+"id": "1000000106",
+"name": "Rebellenheimat"
+},
+{
+"id": "1000000533",
+"name": "Reditio de Camelot"
+},
+{
+"id": "1000000534",
+"name": "Refugio el Ferror"
+},
+{
+"id": "1000000535",
+"name": "Refugium"
+},
+{
+"id": "1000000107",
+"name": "Riva"
+},
+{
+"id": "1000000085",
+"name": "Robbingen"
+},
+{
+"id": "1000000536",
+"name": "Rochedragonne"
+},
+{
+"id": "1000000537",
+"name": "Rodina"
+},
+{
+"id": "1000000538",
+"name": "Rodon Ithilorion"
+},
+{
+"id": "1000000539",
+"name": "Rogalis"
+},
+{
+"id": "1000000088",
+"name": "Roma"
+},
+{
+"id": "1000000089",
+"name": "Romania"
+},
+{
+"id": "1000000540",
+"name": "Romantika Meerum"
+},
+{
+"id": "1000000541",
+"name": "Rosaleda"
+},
+{
+"id": "1000000542",
+"name": "Rosenhain"
+},
+{
+"id": "1000000543",
+"name": "Sain Miriel"
+},
+{
+"id": "1000000544",
+"name": "Sala Mandra"
+},
+{
+"id": "1000000545",
+"name": "Sala Muinthel"
+},
+{
+"id": "1000000546",
+"name": "Sambalia"
+},
+{
+"id": "1000000547",
+"name": "Samek pri Gora"
+},
+{
+"id": "1000000108",
+"name": "San Alirion"
+},
+{
+"id": "1000000548",
+"name": "San Franco"
+},
+{
+"id": "1000000549",
+"name": "Sar Sargoth"
+},
+{
+"id": "1000000550",
+"name": "Schattenfeste Loh"
+},
+{
+"id": "1000000551",
+"name": "Schattental"
+},
+{
+"id": "1000000552",
+"name": "Schicksaalslande"
+},
+{
+"id": "1000000553",
+"name": "SchicksaalsLuft"
+},
+{
+"id": "1000000109",
+"name": "Schicksalsfeste"
+},
+{
+"id": "1000000554",
+"name": "Schleswig"
+},
+{
+"id": "1000000555",
+"name": "Schloss Greifenfels"
+},
+{
+"id": "1000000027",
+"name": "Schloss Holte"
+},
+{
+"id": "1000000556",
+"name": "Schloss Rabenfels"
+},
+{
+"id": "1000000557",
+"name": "Schloss Schwanenstein"
+},
+{
+"id": "1000000558",
+"name": "Schloss Tantopia"
+},
+{
+"id": "1000000110",
+"name": "Schloss Wiesental"
+},
+{
+"id": "1000000559",
+"name": "Schmauchingen"
+},
+{
+"id": "1000000560",
+"name": "Schnjokoladia"
+},
+{
+"id": "1000000561",
+"name": "Schrein der Hoffnung"
+},
+{
+"id": "1000000562",
+"name": "Seeblick"
+},
+{
+"id": "1000000563",
+"name": "Seestadt"
+},
+{
+"id": "1000000564",
+"name": "Seestern"
+},
+{
+"id": "1000000111",
+"name": "Serenissima"
+},
+{
+"id": "1000000112",
+"name": "Sethannon"
+},
+{
+"id": "1000000565",
+"name": "Seyda Neen"
+},
+{
+"id": "1000000566",
+"name": "Shambhala"
+},
+{
+"id": "1000000567",
+"name": "Shen han Calhar"
+},
+{
+"id": "1000000568",
+"name": "Shibuya"
+},
+{
+"id": "1000000569",
+"name": "Silbergreifenfurt"
+},
+{
+"id": "1000000570",
+"name": "Silberkueste"
+},
+{
+"id": "1000000571",
+"name": "Silbrigmond"
+},
+{
+"id": "1000000113",
+"name": "Sindrovolt"
+},
+{
+"id": "1000000572",
+"name": "Skara Brae"
+},
+{
+"id": "1000000573",
+"name": "Skotos"
+},
+{
+"id": "1000000574",
+"name": "Skryll"
+},
+{
+"id": "1000000575",
+"name": "Solaris"
+},
+{
+"id": "1000000576",
+"name": "Sommergarten"
+},
+{
+"id": "1000000577",
+"name": "Soteria"
+},
+{
+"id": "1000000578",
+"name": "Splitter des Obsidians"
+},
+{
+"id": "1000000579",
+"name": "Stadt am Meer"
+},
+{
+"id": "1000000580",
+"name": "Stealthbrows Monument"
+},
+{
+"id": "1000000581",
+"name": "Steinbrck"
+},
+{
+"id": "1000000582",
+"name": "Steinoed"
+},
+{
+"id": "1000000583",
+"name": "Stern der Franken"
+},
+{
+"id": "1000000584",
+"name": "Stern von Lothien"
+},
+{
+"id": "1000000585",
+"name": "Sto Aldar"
+},
+{
+"id": "1000000114",
+"name": "Stonebear Caldera"
+},
+{
+"id": "1000000586",
+"name": "Stonewood"
+},
+{
+"id": "1000000587",
+"name": "Strahlen des Diamantes"
+},
+{
+"id": "1000000588",
+"name": "Stullenberg"
+},
+{
+"id": "1000000589",
+"name": "Suendenpfuhl"
+},
+{
+"id": "1000000590",
+"name": "Tabernakel"
+},
+{
+"id": "1000000591",
+"name": "Tadmor"
+},
+{
+"id": "1000000592",
+"name": "Takamatsu"
+},
+{
+"id": "1000000595",
+"name": "Taldrad"
+},
+{
+"id": "1000000593",
+"name": "Tal en Ithryn"
+},
+{
+"id": "1000000594",
+"name": "Tal en Tawar"
+},
+{
+"id": "1000000596",
+"name": "Talgithir"
+},
+{
+"id": "1000000597",
+"name": "Tanis"
+},
+{
+"id": "1000000598",
+"name": "Tannhausen"
+},
+{
+"id": "1000000599",
+"name": "Tarangard"
+},
+{
+"id": "1000000600",
+"name": "Taranijn"
+},
+{
+"id": "1000000028",
+"name": "Tarankar"
+},
+{
+"id": "1000000601",
+"name": "Tartaros"
+},
+{
+"id": "1000000115",
+"name": "Tatzenburg"
+},
+{
+"id": "1000000602",
+"name": "Taugenichtstanien"
+},
+{
+"id": "1000000603",
+"name": "Tempel der Goetter"
+},
+{
+"id": "1000000604",
+"name": "Tempelstadt"
+},
+{
+"id": "1000000605",
+"name": "Tengrosia"
+},
+{
+"id": "1000000090",
+"name": "Terra Liberta"
+},
+{
+"id": "1000000116",
+"name": "Terra Persa"
+},
+{
+"id": "1000000004",
+"name": "Teststadt"
+},
+{
+"id": "1000000606",
+"name": "Teuteburg"
+},
+{
+"id": "1000000607",
+"name": "Thanateion"
+},
+{
+"id": "1000000615",
+"name": "Thinodes"
+},
+{
+"id": "1000000117",
+"name": "Tir nan Druinich"
+},
+{
+"id": "1000000627",
+"name": "Tor des Nordens"
+},
+{
+"id": "1000000118",
+"name": "Tortuga"
+},
+{
+"id": "1000000626",
+"name": "Tortuga 2"
+},
+{
+"id": "1000000091",
+"name": "Tripolis Nova"
+},
+{
+"id": "1000000622",
+"name": "Troja"
+},
+{
+"id": "1000000086",
+"name": "Trollbruck"
+},
+{
+"id": "1000000616",
+"name": "Tromso"
+},
+{
+"id": "1000000628",
+"name": "Trondheim"
+},
+{
+"id": "1000000617",
+"name": "Trucan"
+},
+{
+"id": "1000000618",
+"name": "Tuborg"
+},
+{
+"id": "1000000619",
+"name": "Tura Clementiae"
+},
+{
+"id": "1000000092",
+"name": "Turapolis"
+},
+{
+"id": "1000000621",
+"name": "Turris Fengaris"
+},
+{
+"id": "1000000620",
+"name": "TYROS"
+},
+{
+"id": "1000000119",
+"name": "Tyrus Nova"
+},
+{
+"id": "1000000629",
+"name": "Uhata"
+},
+{
+"id": "1000000630",
+"name": "Ulthwe"
+},
+{
+"id": "1000000631",
+"name": "Umbria"
+},
+{
+"id": "1000000120",
+"name": "Urbs Dementis"
+},
+{
+"id": "1000000632",
+"name": "Urbs Ordonis"
+},
+{
+"id": "1000000633",
+"name": "UrkS diFugL aka UmF d FuduraB"
+},
+{
+"id": "1000000123",
+"name": "Vaemi Beach"
+},
+{
+"id": "1000000121",
+"name": "Vae Solis"
+},
+{
+"id": "1000000122",
+"name": "Vae Tropico"
+},
+{
+"id": "1000000634",
+"name": "Val en Orod"
+},
+{
+"id": "1000000635",
+"name": "Val ti Amo"
+},
+{
+"id": "1000000636",
+"name": "Varberg"
+},
+{
+"id": "1000000124",
+"name": "Venezia"
+},
+{
+"id": "1000000637",
+"name": "Veo Lu"
+},
+{
+"id": "1000000638",
+"name": "Vertana"
+},
+{
+"id": "1000000125",
+"name": "Vios Lair"
+},
+{
+"id": "1000000639",
+"name": "Vonnenberg"
+},
+{
+"id": "1000000640",
+"name": "Wahi Ahumara"
+},
+{
+"id": "1000000641",
+"name": "Waldbrueck"
+},
+{
+"id": "1000000642",
+"name": "Waldesruh"
+},
+{
+"id": "1000000643",
+"name": "Waldwacht"
+},
+{
+"id": "1000000126",
+"name": "Walhalla"
+},
+{
+"id": "1000000644",
+"name": "Wespenburg"
+},
+{
+"id": "1000000645",
+"name": "Wespenforst Sued"
+},
+{
+"id": "1000000646",
+"name": "Wespenwald"
+},
+{
+"id": "1000000647",
+"name": "Wichtelfeste"
+},
+{
+"id": "1000000127",
+"name": "Wildbear Residence"
+},
+{
+"id": "1000000648",
+"name": "Wild Cat Ressort"
+},
+{
+"id": "1000000655",
+"name": "Wildcat`s Eye"
+},
+{
+"id": "1000000128",
+"name": "Wings of Dragon"
+},
+{
+"id": "1000000656",
+"name": "Winternacht"
+},
+{
+"id": "1000000673",
+"name": "Wolfherz"
+},
+{
+"id": "1000000657",
+"name": "Wolfsfeste"
+},
+{
+"id": "1000000151",
+"name": "Wolfsglut"
+},
+{
+"id": "1000000658",
+"name": "Wolfsschlucht"
+},
+{
+"id": "1000000659",
+"name": "Xinnen"
+},
+{
+"id": "1000000129",
+"name": "Xorlosch"
+},
+{
+"id": "1000000664",
+"name": "Xorlosch 2"
+},
+{
+"id": "1000000660",
+"name": "Yarinte"
+},
+{
+"id": "1000000130",
+"name": "Zaradum"
+},
+{
+"id": "1000000661",
+"name": "Zauber des Achats"
+},
+{
+"id": "1000000662",
+"name": "Zauberwald"
+},
+{
+"id": "1000000665",
+"name": "Zitadelle der Jeschmeidichkeit"
+},
+{
+"id": "1000000131",
+"name": "Zwergenaltersheim"
+}
+]
+}
