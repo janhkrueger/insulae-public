@@ -1,0 +1,616 @@
+[2017-02-23 16:39:40.141] [api_logger] [info] Server gestartet
+[2017-02-23 16:39:40.141] [api_logger] [info] -> Routen eingerichtet.
+[2017-02-23 16:39:46.732] [api_logger] [info] Endpoint getStaedte aufgerufen
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aagadin aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aandurin aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Abadir aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Achraon aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Adel Eryd aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Adlerfeste aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aelcaras aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aerlinn aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aglarond aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aibheisgard aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Akatharsia aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Akesphoria aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Akinlay aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Alba Longa aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Albiontar aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: AldRuhn et Honor aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aleisters Home aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Alexanoria Nova aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Alfitria aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Alkar en Orod aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Alverans City of Dreams aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aman`Lu aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Amilano aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Amon Amdir aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Amon Ereb aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Amour de la Larin aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Amrodia aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Anadrome aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Antoras Khorun aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Anudora aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Apricus Lacus aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aqualung aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aquilania aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aquila`s Home aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arador aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arados Nova aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arbol de Eternidad aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arboreum Lothianis aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arcadia aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arcania aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arcanus aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arcaria aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arcella aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Argos ad Argolis aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Argostia aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Aronius Monument aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Artus Hof aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arx ars Arcana aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arx ars Bellica aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arx ars Magica aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arx ars Nova aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Arx Libertas aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Asgards Khaz Rhun aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Asgards Light aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Asgards Loewenfels aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Asgards Lost aus der DB gelesen.
+[2017-02-23 16:39:46.770] [api_logger] [info] Stadt: Asgards Mahal aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Asgards Memry aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Asgards Monument aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Asgards Ocarnje aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Asgards Pride aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Asgards Thrudvanger aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Athanasia aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Athlith aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Atreides Monument aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Atropos aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Aurora aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Avalon aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Avarannon aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Avari`s Heaven aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Averian aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Axahine aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Aydindril aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Babel aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Barad-dur aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bar Amdir aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bareketta aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bearfield Garden aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bearfield Outland aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bearhaven aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bear Knox aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Beaulieu aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bechelaren aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Beldhar aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Belegost aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bel en Orod aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bendurs Geheiligte Hallen aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Benettons Hoffnung aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bengalore aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Berdusk aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bergfeste Hoffnung aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bermudas aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bernsteinkueste aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bethana 2 aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Black Oak aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bluemchendorf aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Blumenparadies aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Blut des Granats aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Borbra aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bor Col Casir aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bor Col Cros aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bor Col Nan aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bor Col Somar aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Brakleg aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Brilandia aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Bruchtal aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Frankenfels aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Hohenstaufen aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Lukanien aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Nachtwind aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Ruepelfels aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Siebenstein aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Sonnenfels aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Sternental aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Sturmfels aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Sturmwind aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Tacheless aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Burg Wiesengrund aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Butterwiese aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caer Valdeargh aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cair Paravel aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Calavere aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caldera Nova aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Calendula aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caligobaca aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caligomagus aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caligoporta aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Camelot aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caras en Tawar Aroden aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caras Galadhon aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caras Korthre aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Caras Rhawiant aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cartagena aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Carthago Nova aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Casa de Paraiso aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Castella tra montana aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Castell el Ferro aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Castelo Branco aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Catalia aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Ceriona aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Chrestotes aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cirith Elegys aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Clouds End aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: coa lith aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cobrahn aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cor Arctica aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cor Cachette aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cor Castelli aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: cor jaheriel aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cor Llanowares aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cor Medici aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cornbear Coast aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cor Nefiath aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Coruscant aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Crescendo aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Crydee aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Cryon aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Darkana aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Darkwood aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Davatars Monument aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: des Schuerfers kleines Paradies aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Deuteros aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Devils Gate aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dickschaedelfels aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Diminuendo aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Ailin aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dinas Cariad aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dinas Lloches aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dinas Masnach aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Elenath aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Fina aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Ildirian aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Ithil aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Narthan aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Nerona aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Din Pelthaes aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dol Guldur aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dornenhain aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dosporos aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Drachenburg aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Drachenfels aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Drachenfeste aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Drachenfestung aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Drachenhorst aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Drakengard aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Druidenforst aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dun a Morod aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Dwarfs End aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Edhelgarth aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Edoran aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eichhofen aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eiland aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eirulan aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eldamar aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: el Dorado aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eldorado aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: ElfenbeinkÃ¼ste aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Elfhausen aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Elpis aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Enduriumfeste aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Erebor aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eremits Feste aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eremits Geierhorst aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eremits Ruh aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Ergomir aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Erynost aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Eschatiotes aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Espera Lothianis aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Esturia Castello Fuego aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Esturia Centralis aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Esturia Draconis aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Esturia Nova aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Esturia Sapientia aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Esturias Geisterstadt aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Esturia Vectris aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Evendim aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Excubitor Merdies aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Far Far Away aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Fendrakan aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Fendrakan Grenzfeste aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Fendrakan Zuflucht aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Ferne Zuflucht aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Ferne Zuflucht 2 aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Feste des Blutmondes aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Feste Loh aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Feste Sturmkap aus der DB gelesen.
+[2017-02-23 16:39:46.771] [api_logger] [info] Stadt: Feuer des Rubins aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Feuerfeste aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Flamme des Opals aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Flussfeste aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Fort of Gloria aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankenbucht aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankenfels aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankenfurt aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankenstein aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankental aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankental 2 aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankenwald aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Frankonia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Freimaurer Stadt aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Fruitbear Castle aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Fyrkat aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Galador aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Galopiandros aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Ganath Nova aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Ganath Nova 2 aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Garden of Honor aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gateway aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gil Tho`bek aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Glanz des Saphirs aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gloria aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gloria Bellum Gallicum aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gloria fa Luhn aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gloria Immortalis aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Glutbrueck aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gobel en airita Bendur aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Goldburg aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Goldstrand aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Golonath aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gondor aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gondtyl aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Gray Manor aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Greenleafs Castle aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Grenzfeste Broms Klamm aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Grenzfeste Morodshall aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hafen der Seelen aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Haithabu aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Handelsstadt Adragne aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Harnost aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Havamal aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Havanna aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Helena aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Heraklion aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Herculentius aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Heredia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Herz der Drachen aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hesperus aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hohe Feste des Frankenreiches aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Holzkopfbucht aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Home of native Indians aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Honor fa Luhn aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Honor Immortalis aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hoolia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hort der Abenteurer aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hort der Erleuchtung aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hort der Rebellen aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hort der Zwerge aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hort des Friedens aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hort des Lebens aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Hort des Lichts aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Huegelfeste Hobbitstolz aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Ilmarin aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Ilythiiri Xukuth aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Imladris aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: In Vendaris aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Isengard aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Isthmuriel dur Mare aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Jade del Mar aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Jagdrevier Hoffnung aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Jakaruthu aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Jardanar aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Jenensia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Je Olde Kratt aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Johannesburg aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kalrathien aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kaltwasser aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kap Amoris aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kap Arandor aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kap der Franken aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kap der Freiheit aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kap der sieben Winde aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kastell der Seegeister aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kastell der Waldgeister aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kathargo aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kendhrir aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Khemri aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kiekebusch aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kleintupfingen aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kleinwichtel-Walhallingen aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Korodon aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kraehennest aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Krak des Chevaliers aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Krasnij Kut aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kuestenbrise aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kuestenfestung Girangoth aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Kuslik aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: La Bodega aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lac Dinesherre aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Ladoran aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: La Gardia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lager Mitte aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lager Nord aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lager SÃ¼d aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lager West aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lamia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lancelots Bierburg aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lapis Lazuli aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lapis Lothianis aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Larien aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Larjas Segen aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Larjas Traene aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Larjas Waldburg aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Larjas Zuflucht aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lenthargo aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Licht der Hoffnung aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lion`s Castle aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lohleben aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lois Thuatail aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Londoria aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lorderon aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lothia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lothianis Bay aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lothianis Coast aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lothiens Sternchen aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Luis Silva aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lunae aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Lupinia aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Mabyndor aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Mabyndyr aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Maethyria aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Magesh aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Magie des Aquamarins aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Magna Atlanta aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Mainsch kleine Hilfschmischion aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Majores Morgul aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Mallorn aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Melnibonee aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Menegroth aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Men in aina Larja aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Meresin aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Miluiverien aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas Anor aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas Argul aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas en airita Urvan aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas Estel aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas Ithil aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas Tinth aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas Tir aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minas Tirith aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Minuial aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Miracon aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Monere Altum aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Monjiopoly aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Monmate Sinan aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Monte-Carlo aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Moonlight aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Moonlit Castle aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Morgenthau aus der DB gelesen.
+[2017-02-23 16:39:46.772] [api_logger] [info] Stadt: Morodia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Murindil Lysilia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Napanee aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Naphtha aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Narvalon aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Navisko aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nebelfeste aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Ned rin bo i hil aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nekrodocheion aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nemesis aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neo Draconis aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neo Evangelion aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neo Fendrakan aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neskaya aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neue Hoffnung aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neu Kuldafaern aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neu Nimheria aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Neu Toppelmopf aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nevoa Escura aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: New Hive aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: New Hope aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Niflheim aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nogrod aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nordlicht aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nore en airita Pheron aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nottinghamshire aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nova Androsia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Nova Ostasia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Numenor aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Odins Festung aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Odins Festung 2 aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Oneiros aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Onkelboeken aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Opele in aina Tura aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Orkflamme aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Osgiliath aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Ossakarowka aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Ostfels aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Ostia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Osto Alda aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Osto in aina Wendaria aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Osttal aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Oureion aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Paladins Lager aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Paladins Oase aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Paladins Resort aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Palladium Gaias aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Panama aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Parandor aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Patria Anatini aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Patria Terravernis aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Perlenbucht (1) aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Perlenbucht (2) aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Pforte zu Loh aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Pforte zu Walhall aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Plains of Honor aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Plantagenhain aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Polamar aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Polarstern aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Pontos aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Portolia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Port Royal aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Pracht des Smaragdes aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Preciosa de Rosa aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Puerto Pavitos aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Pyr aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Quell der Hoffnung aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Quo Veheris aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rabenfels aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rebellenfeste aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rebellenheimat aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Reditio de Camelot aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Refugio el Ferror aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Refugium aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Riva aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Robbingen aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rochedragonne aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rodina aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rodon Ithilorion aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rogalis aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Roma aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Romania aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Romantika Meerum aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rosaleda aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Rosenhain aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sain Miriel aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sala Mandra aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sala Muinthel aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sambalia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Samek pri Gora aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: San Alirion aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: San Franco aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sar Sargoth aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schattenfeste Loh aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schattental aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schicksaalslande aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: SchicksaalsLuft aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schicksalsfeste aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schleswig aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schloss Greifenfels aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schloss Holte aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schloss Rabenfels aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schloss Schwanenstein aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schloss Tantopia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schloss Wiesental aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schmauchingen aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schnjokoladia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Schrein der Hoffnung aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Seeblick aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Seestadt aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Seestern aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Serenissima aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sethannon aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Seyda Neen aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Shambhala aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Shen han Calhar aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Shibuya aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Silbergreifenfurt aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Silberkueste aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Silbrigmond aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sindrovolt aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Skara Brae aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Skotos aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Skryll aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Solaris aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sommergarten aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Soteria aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Splitter des Obsidians aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Stadt am Meer aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Stealthbrows Monument aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Steinbrck aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Steinoed aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Stern der Franken aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Stern von Lothien aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Sto Aldar aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Stonebear Caldera aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Stonewood aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Strahlen des Diamantes aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Stullenberg aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Suendenpfuhl aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tabernakel aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tadmor aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Takamatsu aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Taldrad aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tal en Ithryn aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tal en Tawar aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Talgithir aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tanis aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tannhausen aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tarangard aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Taranijn aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tarankar aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tartaros aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tatzenburg aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Taugenichtstanien aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tempel der Goetter aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tempelstadt aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tengrosia aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Terra Liberta aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Terra Persa aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Teststadt aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Teuteburg aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Thanateion aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Thinodes aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tir nan Druinich aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tor des Nordens aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tortuga aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tortuga 2 aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Tripolis Nova aus der DB gelesen.
+[2017-02-23 16:39:46.773] [api_logger] [info] Stadt: Troja aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Trollbruck aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Tromso aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Trondheim aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Trucan aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Tuborg aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Tura Clementiae aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Turapolis aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Turris Fengaris aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: TYROS aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Tyrus Nova aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Uhata aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Ulthwe aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Umbria aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Urbs Dementis aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Urbs Ordonis aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: UrkS diFugL aka UmF d FuduraB aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Vaemi Beach aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Vae Solis aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Vae Tropico aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Val en Orod aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Val ti Amo aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Varberg aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Venezia aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Veo Lu aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Vertana aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Vios Lair aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Vonnenberg aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wahi Ahumara aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Waldbrueck aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Waldesruh aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Waldwacht aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Walhalla aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wespenburg aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wespenforst Sued aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wespenwald aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wichtelfeste aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wildbear Residence aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wild Cat Ressort aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wildcat`s Eye aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wings of Dragon aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Winternacht aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wolfherz aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wolfsfeste aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wolfsglut aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Wolfsschlucht aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Xinnen aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Xorlosch aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Xorlosch 2 aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Yarinte aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Zaradum aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Zauber des Achats aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Zauberwald aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Zitadelle der Jeschmeidichkeit aus der DB gelesen.
+[2017-02-23 16:39:46.774] [api_logger] [info] Stadt: Zwergenaltersheim aus der DB gelesen.
+[2017-02-23 16:39:47.974] [api_logger] [info] Server gestoppt
