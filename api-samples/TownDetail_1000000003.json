@@ -1,0 +1,1 @@
+{"id": 1000000003,"name": "Hafen der Seelen","location": {  "x": -1987,  "y": 12,  "w": 0},"taxes": {  "neutral": 5.000000,  "freund": 3.000000,  "feind": 10.000000,  "nation": 1.000000},"mayorplayerid": 1000000006,"traderoutesallowed": false,"travelroutesallowed": true,"nation": 1000000026,"market": 1000000003,"foundingdate": "2007-01-12 20:22:34"}
