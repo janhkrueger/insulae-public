@@ -1,0 +1,11 @@
+Alte Methode:
+00:41:47.176 Uhr
+00:41:48.297 Uhr
+
+1121 Millisekunden
+
+Neue Methode:
+21:33:06.285 Uhr
+21:33:06.301 Uhr
+
+16 Millisekunden!

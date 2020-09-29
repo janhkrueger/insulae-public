@@ -1,0 +1,64 @@
+2010-02-23 21:33:06.285 CETLOG:  statement: select karte_x, karte_y, karte_gelaende, karte_land
+	         from world.map
+	         where karte_x between -1992 and -1986 and karte_y between 8 and 14
+	         and karte_w = 0
+	      
+2010-02-23 21:33:06.285 CETLOG:  statement: SELECT portal_sx, portal_sy, portal_typ FROM world.portal
+	         		where portal_sx between -1992 and -1986 and portal_sy between 8 and 14
+	         		and portal_sw = 0
+	         		and portal_sphase = 1000000000
+	      
+2010-02-23 21:33:06.285 CETLOG:  statement: SELECT p.spieler_x, p.spieler_y, s.spieler_bild FROM player.player s, player.position p
+						WHERE p.spieler_x between -1992 and -1986
+	        	AND p.spieler_y between 8 and 14
+	        	AND p.spieler_w = 0
+	        	AND p.spieler_phase=1000000000
+	        	AND s.spieler_aktiv='j'
+	        	AND p.spieler_id = s.spieler_id
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: SELECT stadt_x, stadt_y, stadt_id FROM stadt.stadt_pos
+						WHERE stadt_x between -1992 and -1986
+						AND stadt_y between 8 and 14
+						AND stadt_w = 0
+						AND stadt_phase = 1000000000
+						AND stadt_aktiv='j'
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: SELECT wh_x, wh_y, wh_haus FROM world.building_position p
+						WHERE wh_x between -1992 and -1986
+	        	AND wh_y between 8 and 14
+	        	AND wh_w = 0
+	        	AND wh_phase = 1000000000
+	        	AND wh_aktiv='j'
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: SELECT karawane_x, karawane_y, karawane_id FROM world.caravane 
+						WHERE karawane_x between -1992 and -1986 
+						AND karawane_y between 8 and 14
+						AND karawane_w = 0
+						AND karawane_phase=1000000000
+						AND karawane_aktiv = 'j'
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: SELECT monsternest_x, monsternest_y, monsternest_id FROM welt.monster_nest 
+						WHERE monsternest_x between -1992 and -1986
+						AND monsternest_y between 8 and 14
+						AND monsternest_w = 0
+						AND monsternest_phase = 1000000000
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: SELECT objekt_x, objekt_y, objekt_pfad FROM world.map_object 
+						WHERE objekt_x between -1992 and -1986
+						AND objekt_y between 8 and 14
+						AND objekt_w = 0
+						AND objekt_phase = 1000000000
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: SELECT schild_x, schild_y, schild_id FROM world.shield
+						WHERE schild_x between -1992 and -1986
+						AND schild_y between 8 and 14
+						AND schild_w = 0
+						AND schild_phase = 1000000000
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: SELECT strasse_x, strasse_y, strasse_typ FROM world.street
+						WHERE strasse_x between -1992 and -1986
+						AND strasse_y between 8 and 14
+						AND strasse_w = 0
+						AND strasse_phase = 1000000000
+	      
+2010-02-23 21:33:06.301 CETLOG:  statement: ROLLBACK

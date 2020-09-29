@@ -1,0 +1,17 @@
+2009-12-12 22:21:41 CETLOG:  database system was shut down at 2009-12-12 22:21:35 CET
+2009-12-12 22:21:41 CETFATAL:  the database system is starting up
+2009-12-12 22:21:42 CETLOG:  autovacuum launcher started
+2009-12-12 22:21:42 CETLOG:  Datenbanksystem ist bereit um Verbindungen anzunehmen
+2009-12-12 22:21:47 CETLOG:  statement: SELECT * FROM player.player WHERE spieler_id=1000000006
+2009-12-12 22:21:47 CETLOG:  statement: select box_id from player.postbox where spieler_id = '1000000006' and primaerbox = 'j'
+2009-12-12 22:21:47 CETLOG:  statement: SELECT * FROM player.position WHERE spieler_id=1000000006
+2009-12-12 22:21:47 CETLOG:  statement: SELECT * FROM player.last_action WHERE spieler_id=1000000006
+2009-12-12 22:21:47 CETLOG:  statement: INSERT INTO daten.logtabelle (dl_spieler, dl_datum, dl_aktion, dl_beschreibung) VALUES ('1000000006', EXTRACT('epoch' FROM CURRENT_TIMESTAMP), '0', 'Seite wurde aufgerufen diplomatie.php')
+2009-12-12 22:21:47 CETLOG:  statement: SELECT spieler_tavernenverbot, spieler_forenverbot FROM player.player WHERE spieler_id='1000000006'
+2009-12-12 22:21:47 CETLOG:  statement: SELECT recht_verwaltung FROM player.permissions WHERE spieler_id='1000000006'
+2009-12-12 22:21:47 CETLOG:  statement: select s.spieler_name, s.spieler_id from player.player s, player.proxy v where v.spieler_id = 1000000006 and s.spieler_id = v.vertritt_spieler order by s.spieler_name
+2009-12-12 22:21:47 CETLOG:  statement: SELECT s.spieler_name, b.spieler_wem FROM player.relations b, player.player s WHERE b.spieler_wer = '1000000006' AND s.spieler_id=b.spieler_wem  AND s.spieler_aktiv='j' ORDER BY s.spieler_name
+2009-12-12 22:21:47 CETLOG:  statement: select box_id from player.postbox where spieler_id = 1000000006 and primaerbox = 'j'
+2009-12-12 22:21:47 CETLOG:  statement: UPDATE sonstiges.nachricht set nachricht_gelesen='j' WHERE id_empfaengerbox='1000000000'
+2009-12-12 22:21:47 CETLOG:  statement: SELECT n.nachricht_id, n.nachricht_datum, n.nachricht_ueberschrift, n.nachricht_inhalt, s.spieler_id as sender, s.spieler_name FROM sonstiges.nachricht n, player.postbox sb, player.player s WHERE n.nachricht_art = 1 AND n.id_empfaengerbox=1000000000 AND sb.box_id = n.id_senderbox AND s.spieler_id = sb.spieler_id AND n.nachricht_geloescht='n' ORDER BY n.nachricht_datum DESC LIMIT 20 OFFSET 0
+2009-12-12 22:21:47 CETLOG:  statement: UPDATE  sonstiges.nachricht  SET nachricht_gelesen='j' WHERE nachricht_id='9934'

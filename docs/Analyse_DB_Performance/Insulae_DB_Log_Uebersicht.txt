@@ -1,0 +1,70 @@
+2009-12-12 22:22:22 CETLOG:  database system was shut down at 2009-12-12 22:22:18 CET
+2009-12-12 22:22:22 CETFATAL:  the database system is starting up
+2009-12-12 22:22:23 CETLOG:  autovacuum launcher started
+2009-12-12 22:22:24 CETLOG:  Datenbanksystem ist bereit um Verbindungen anzunehmen
+2009-12-12 22:22:29 CETLOG:  statement: SELECT * FROM player.player WHERE spieler_id=1000000006
+2009-12-12 22:22:29 CETLOG:  statement: select box_id from player.postbox where spieler_id = '1000000006' and primaerbox = 'j'
+2009-12-12 22:22:29 CETLOG:  statement: SELECT * FROM player.position WHERE spieler_id=1000000006
+2009-12-12 22:22:29 CETLOG:  statement: SELECT * FROM player.last_action WHERE spieler_id=1000000006
+2009-12-12 22:22:29 CETLOG:  statement: SELECT wn.*, s.spieler_name AS anfuehrername, g.gott_name AS gottname, b.beschreibung_text
+	          FROM player.nation wn, player.player s, foundation.god g, sonstiges.beschreibung b 
+	          WHERE wn.nation_id ='1000000026' AND s.spieler_id=wn.nation_anfuehrer AND wn.nation_gott=g.gott_id AND b.beschreibung_id=wn.nation_beschreibung
+2009-12-12 22:22:29 CETLOG:  statement: SELECT Count(spieler_id) FROM player.player WHERE spieler_nation='1000000026'
+2009-12-12 22:22:29 CETLOG:  statement: INSERT INTO daten.logtabelle (dl_spieler, dl_datum, dl_aktion, dl_beschreibung) VALUES ('1000000006', EXTRACT('epoch' FROM CURRENT_TIMESTAMP), '0', 'Seite wurde aufgerufen uebersicht.php')
+2009-12-12 22:22:29 CETLOG:  statement: UPDATE player.player SET spieler_aktionen=49967, spieler_aktionen_uebertrag=spieler_aktionen_uebertrag+0 WHERE spieler_id=1000000006
+2009-12-12 22:22:29 CETLOG:  statement: UPDATE player.last_action SET spieler_letzteaktion='1260652949' WHERE spieler_id='1000000006'
+2009-12-12 22:22:29 CETLOG:  statement: SELECT st.stadt_id, st.stadt_name, sc.charakter_name FROM stadt.stadt st, player.player sp, player.character sc
+	            WHERE sc.charakter_spieler=sp.spieler_id AND st.stadt_charakter=sc.charakter_id AND sp.spieler_id='1000000006' ORDER BY st.stadt_name
+2009-12-12 22:22:29 CETLOG:  statement: SELECT wn.nation_name, wn.nation_id FROM player.nation wn, player.player spieler WHERE wn.nation_anfuehrer=player.player_id AND player.player_id='1000000006'
+2009-12-12 22:22:29 CETLOG:  statement: UPDATE player.nation SET nation_name='Almaren' WHERE nation_id=1000000026
+2009-12-12 22:22:29 CETLOG:  statement: SELECT spieler_id, spieler_name AS lehnsmann FROM player.player WHERE spieler_lehnsherr='1000000006'
+2009-12-12 22:22:29 CETLOG:  statement: SELECT ah.name, ah.buildingid, wh.wh_haus FROM foundation.building ah, world.building wh WHERE wh.wh_spieler='1000000006' AND wh.wh_haustyp= ah.buildingid AND wh.wh_aktiv='j' ORDER BY ah.name
+2009-12-12 22:22:29 CETLOG:  statement: SELECT charakter_id FROM player.character WHERE charakter_spieler='1000000006' AND charakter_haus IS NULL AND charakter_stadt IS NULL AND charakter_lebenspunkte > 0 ORDER BY charakter_hauptcharakter, charakter_name
+2009-12-12 22:22:29 CETLOG:  statement: SELECT charakter_id FROM player.character WHERE charakter_spieler =1000000006 AND charakter_haus IS NOT NULL AND charakter_lebenspunkte > 0 ORDER BY charakter_name
+2009-12-12 22:22:29 CETLOG:  statement: SELECT charakter_id FROM player.character WHERE charakter_spieler =1000000006 AND charakter_haus IS NULL AND charakter_stadt IS NOT NULL AND charakter_lebenspunkte > 0 ORDER BY charakter_name
+2009-12-12 22:22:29 CETLOG:  statement: SELECT karawane_id, karawane_name FROM world.caravane WHERE karawane_spieler=1000000006
+2009-12-12 22:22:29 CETLOG:  statement: SELECT spieler_tavernenverbot, spieler_forenverbot FROM player.player WHERE spieler_id='1000000006'
+2009-12-12 22:22:29 CETLOG:  statement: SELECT recht_verwaltung FROM player.permissions WHERE spieler_id='1000000006'
+2009-12-12 22:22:29 CETLOG:  statement: select s.spieler_name, s.spieler_id from player.player s, player.proxy v where v.spieler_id = 1000000006 and s.spieler_id = v.vertritt_spieler order by s.spieler_name
+2009-12-12 22:22:29 CETLOG:  statement: SELECT stadt_x, stadt_y FROM stadt.stadt_pos WHERE stadt_id = 1000000056
+2009-12-12 22:22:29 CETLOG:  statement: SELECT stadt_x, stadt_y FROM stadt.stadt_pos WHERE stadt_id = 1000000003
+2009-12-12 22:22:29 CETLOG:  statement: SELECT wh_x, wh_y, wh_w FROM world.building_pos WHERE wh_haus = 1000000843
+2009-12-12 22:22:29 CETLOG:  statement: SELECT karte_gelaende, karte_land FROM world.map WHERE karte_x = -1987 AND karte_y = 13 AND karte_w = 0
+2009-12-12 22:22:29 CETLOG:  statement: SELECT wh_x, wh_y, wh_w FROM world.building_pos WHERE wh_haus = 1000000136
+2009-12-12 22:22:29 CETLOG:  statement: SELECT karte_gelaende, karte_land FROM world.map WHERE karte_x = 505 AND karte_y = 502 AND karte_w = 0
+2009-12-12 22:22:29 CETLOG:  statement: SELECT wh_x, wh_y, wh_w FROM world.building_pos WHERE wh_haus = 1000000842
+2009-12-12 22:22:29 CETLOG:  statement: SELECT karte_gelaende, karte_land FROM world.map WHERE karte_x = -1990 AND karte_y = 11 AND karte_w = 0
+2009-12-12 22:22:29 CETLOG:  statement: SELECT wh_x, wh_y, wh_w FROM world.building_pos WHERE wh_haus = 1000000840
+2009-12-12 22:22:29 CETLOG:  statement: SELECT karte_gelaende, karte_land FROM world.map WHERE karte_x = 52 AND karte_y = 45 AND karte_w = 1000000204
+2009-12-12 22:22:29 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '120'
+2009-12-12 22:22:29 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=9
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000088241'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=1
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000083869'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=6
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000084962'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=2
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000087148'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=7
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000089334'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=5
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000086055'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=10
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000082774'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=7
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000007750'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=7
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000081010'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=1
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000007748'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=7
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000000007'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=13
+2009-12-12 22:22:30 CETLOG:  statement: SELECT * FROM player.character WHERE charakter_id = '1000000815'
+2009-12-12 22:22:30 CETLOG:  statement: SELECT aberuf_name FROM foundation.class WHERE aberuf_id=13
+2009-12-12 22:22:30 CETLOG:  statement: SELECT Count(n.nachricht_id) AS AnzahlNachrichten 
+	            FROM sonstiges.nachricht n, player.postbox pb
+	            WHERE n.id_empfaengerbox=pb.box_id
+	            AND pb.primaerbox = 'j'
+	            AND pb.spieler_id = '1000000006'
+	            AND n.nachricht_gelesen='n'
