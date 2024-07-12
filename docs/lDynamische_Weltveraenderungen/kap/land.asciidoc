@@ -1,0 +1,113 @@
+== Landveränderungen
+
+Unter den Landveränderungen werden alle Szenarien zusammen gefasst,
+welche sich auf das optische Erscheinungsbild der Karte auswirken. Nach
+aktuellem Stand bietet sich jedes der hier vorgestellten Szenarien auch
+an um das Eingreifen der Götter in die Welt darzustellen. Es ist noch zu
+prüfen inwieweit sich einige dieser Szenarien eignen durch mächtige
+Zauber durch Spieler bewußt herbeigefü hrt werden können.
+
+=== Vulkanausbrüche
+
+Vulkanausbrüche dienen dazu nachhaltig die Landmasse zu verändern.
+Aufgrund ihrer grossen Zerstörungskraft welche potentiell sämtliche
+Gebäude und Landschaftsaufwertungen vernichten kann, ist dieses
+Ereigniss nur äusserst selten zu triggern. Bei Verwendung von
+Vulkanausbrüchen ist zu Beginn jeder Runde klar zu stellen das es zu
+solchen kommen kann mit einem Hinweis darauf was fuer endgueltige Folgen
+ein Vulkanausbruch mit sich bringt. Das Gebiet in direkter Nähe des
+Vulkanes wird unmittelbar zerstort. Daraufliegende Gebäude und Straßen
+werden ebenfalls unwiederbringlich zerstört. Es findet kein materieller
+oder finanzieller Ausgleich statt. Charaktere welche zum Zeitpunkt des
+Ausbruches sich in dem Gebiet aufhalten, werden zum nächsten Tempel
+transferiert. Sollte sich in der Region des Ereignisses ein Tempel
+befinden, ist dieser mit Beginn des Ereignisses zu deaktivieren und
+sterbende Charaktere auf umliegende Tempel zu verteilen.
+
+Nach dem Ausbruch gibt es mehrere Varianten wie das Ereignis fortgeführt
+werden kann. - Ende des Ausbruches - Lava fliesst gen Küste -
+Vernichtung der Insel
+
+Bei Variante 1, Ende des Ausbruches ist weiter nichts mehr zu beachten.
+Die vernichteten Ländereien werden als Steinfelder fortgeführt welche
+wie gehabt von Charakteren bewirtschaftet werden koennen. Das zentrale
+Feld besitzt eine erhöhte Wahrscheinlichkeit Quelle von Edelsteinen zu
+sein. Sollte die Lava wie in Variante 2 gen Küste fließen, muss der
+Vektor zu Beginn festgelegt werden. Von Vulkankrater bis zur Küste wird
+ein 3-Felder breiter Streifen Land vollständig zerstört. Der Lavastrom
+breitet sich mit mindestens einem Feld pro Tag aus. Schnelleres
+fließender Lava ist möglich bis zu einer Rate von einem Feld pro Stunde.
+Die vollständige Vernichtung einer Insel schließlich ist vergleichbar
+mit Variante 2. Der Unterschied besteht lediglich darin das die Lava in
+alle Richtungen in sich konzentrisch um den Startpunkt ausbreitet. Diese
+Variante ist nur zu empfehlen wenn eine Insel vergrößert oder gegen eine
+andere Inselvorlage ausgetauscht werden soll. In diesem Fall wird
+nachdem die Lava erkaltet ist, anstelle der bisherigen Insel die neue
+entstehen. Ich empfehle um einen glaubhaften Üebergang zu gestalten eine
+Kombination aus Vulkanausbruch und Überflutung. Bei der Überflutung ist
+jedoch die übliche Eintragung in der öffentlich zugänglichen Historie
+auszublenden. Vulkanausbrüche können in einer laufenden Runde auch
+genutzt werden um die Landmasse der Spielerzahl anzupassen. Gleichzeitig
+dienen sie dazu den Eindruck einer veränderlichen Welt darzustellen.
+*Skriptname:* ringoffire.py *Aufrufparameter:* Startkoordinate,
+Variante, Geschwindigkeit, Zielkoordinate, InselID Werden einer oder
+mehrere der Parameter nicht gesetzt, wird von ringoffire.py ein
+zufälliger Wert zugewiesen. Die Parameter Geschwindigkeit,
+Zielkoordinate und InselID werden in Abhängigkeit der angegebenen
+Variante ausgewertet.
+
+=== Überflutungen
+
+Eine Überflutung ist in ihrer Auswirkung das Gegenteil zu
+Vulkanausbrüchen. Anstatt Land zu schaffen, wird hier Land
+genommen.Daher treffen die oben genannten Anmerkungen in verleichbarer
+Form auch auf Überflutungen zu. So kann eine Überflutung ebenfalls dazu
+genutzt werden die Landmasse der Spielerzahl anzupassen. *Hinweis:* Neue
+bzw. Ersatzanleger müssen bei aktuellem Stand noch per Hand gesetzt
+werden. *Skriptname:* cantstoptheflood.py
+
+=== Trockenheiten
+
+Eine Trockenheit symbolisiert das Fehlen von Wasser in einem Gebiet.
+Diese, wenn nicht schnell beendet, reduziert zeitweise den Ertrag
+gewisser Produkte. Die Regeneration der Felder sinkt stetig bis die
+Trockenheit beendet ist oder eine Regeneration von 0 erreicht wurde.
+Dauert die Trockenheit länger an, so sinkt mit jeder weiteren
+Auswertungsperiode die Qualität des Feldes. Bei einer Feldqualitüat von
+anfangs 5, wird es also zusammen 10 Tage dauern bis sowohl Regeneration
+wie auch Qualität eines Feldes auff 0 gesunken sind. Ist dieser Punkt
+erreicht, beginnt das Land sich bei fortschreitender Trockenheit zu
+wandeln. Reguläre Felder werden zu Wüste. Als solche sind die meisten
+Produktionsgebäude nicht mehr in der Lage zu produzieren, komplette
+Wirtschaftszweige können wegbrechen. Weiterverarbeitende Gewerbe können
+weiter produzieren. *Hinweis:* Es ist dabei zu achten das bei manueller
+Auslosung nur Regionen mit passender Ausgangssituation gewählt werden.
+Der Übergang von ewigen Winter in eine trockene Wüste ist nicht immer
+glaubwürdig. *Skriptname:* dryland.py *Aufrufparameter:* InselID, Dauer,
+Variante Werden einer oder mehrere der Parameter nicht gesetzt, wird von
+vulkan.py ein zufälliger Wert zugewiesen. Die Parameter Geschwindigkeit,
+Zielkoordinate und InselID werden in Abhängigkeit der angegebenen
+Variante ausgewertet.
+
+=== Verlängerte Jahreszeiten
+
+Aufgrund des technischen Aufbaus von Insulae ist es möglich für jede
+Region / Insel / Kontinent eigene Abläufe der Jahreszeiten zu
+definieren. Wenn auf Del’ro Den Sommer herrscht, liegt Akrunia im
+Winter. Dieser Mechanismus wurde erweitert und geöffnet. Damit kann die
+Dauer einer Jahreszeit pro Insel entweder zufällig per Skript oder
+manuell über das Verwaltungsportal verlängert oder verkürzt werden.
+
+Die sonst feste Planung, n Tage Fleisch / Getreide / Holz / Steine
+vorrätig zu halten, kann somit regional hinfällig werden. Die Spieler
+werden gezwungen sich auf geänderte Rahmenbedingungen einzustellen.
+Möglichkeiten dafur sind unter anderem Raubzüge in Regionen welche die
+knappen Ressourcen in Masse haben oder verstärkter Handel. *Skriptname:*
+vierjhahreszeiten.py *Aufrufparameter:* InselID, Dauer
+
+=== Wechselnde Landschaftsformen
+
+Zum Wechsel einer Landschaftsform in eine andere. Für dieses Szenario
+ist bisher noch keine wirkliche Anwendung gefunden.
+gefunden.*Skriptname:* changeforyou.py *Aufrufparameter:* InselID,
+Dauer, Neue Landart
